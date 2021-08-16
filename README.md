@@ -23,6 +23,8 @@ Alchemy can be performed in one of three ways.
 
 Alchemical concoctions can be divided into 5 categories :
 
+
+
 [Common]
 Smoke bombs, healive ointment, Essence of Analgesia, Alcholic beverages, Honey Brew etc
 -> Does not affect 		  : Base difficulty
@@ -122,6 +124,282 @@ Found in roll20 Quick Access Rules -> Magic -> Potion : Mishaps Ability
 
 ---------------------------------------------------------------------------------------------------------------
 
+Making gunpowder in the Middle Ages? It wasn't a simple or quick process.
+
+It seems that a passable form of gunpowder was made many centuries before it was used as a propellant. A poor man’s recipe of 100 parts of saltpeter to 24 parts of charcoal will work to make an incendiary. Sulfur was also needed to make propellants.
+
+The main ingredient in gunpowder was saltpeter, a nitrate salt of potassium. Potassium nitrate, sulfur, and carbon react together to form nitrogen and carbon dioxide gases and potassium sulfide. The hot expanding gases, nitrogen and carbon dioxide, provide the propelling action.
+
+Once acquired, the ingredients must be carefully and separately ground and later mixed in appropriate ratios. Ideally the recipe should include sulfur since sulfur is a stabilizing component and will greatly enhance the rapidity of reaction. However, the approximate common percentages by weight needed for a propellant are:
+
+75% saltpeter
+15% charcoal
+12% sulfur
+Carbon in the form of ground charcoal (preferably made from the wood of willow) gave the powder its black color, but well-ground charcoal from grapevine, hazel, elder, laurel, and pine cones (not resinous pine wood) have all been used.
+
+Bulk quantities of sulfur (brimstone) could be imported from many places in the world blessed with volcanoes, or it could be extracted by evaporation and precipitation from the waters of sulfur springs. Italy and Sicily were common among these.
+
+There were few places in the world, however, where saltpeter deposits could be mined directly. India was one of these — an almost inexhaustible supply of saltpeter found there. Also areas of the world like Chile where the droppings of seabirds or bats have accumulated are rich sources of niter. There were more advanced chemical schemes for producing artificial nitrate works, some of them required the laborious and time consuming extraction of nitrous salts from manure found on the earthen floors of stables, pigpens, cattle yards, and even from human excrement.
 
 
+https://www.survival-manual.com/saltpeter.php
 
+https://www.survival-manual.com/poisonous-plants.php
+
+https://www.askaprepper.com/how-to-make-gun-powder-the-old-fashioned-way-in-less-than-30-minutes/
+
+https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemist%27s%20fire
+
+
+Potion of Hoar Frost Gigantism 
+- The user becomes a Frost Gigant, STR, RES ATTACK bonus and all 
+* Appearence 
+- Color         : Red 
+- Aroma         : Earthy  
+- Opacity       : Muddy 
+- Viscosity     : Honey  
+- Effervescence : No 
+- Rarity		: Legendary 
+
+ 
+
+
+Healing Ointment 
+- Doubles the natural healing speed of wounds applied on. 
+* Appearence 
+- Color         : Milky 
+- Aroma         : Lavender
+- Opacity       : Opacque
+- Viscosity     : Honey  
+- Effervescence : No  
+- Rarity		: Common 
+ 
+
+Healing Salve 
+- Heal 1d4p per use 
+* Appearence 
+- Color         : Pink 
+- Aroma         : Citrusy 
+- Opacity       : Opacque
+- Viscosity     : Honey  
+- Effervescence : No  
+- Rarity		: Uncommon
+ 
+
+
+Minor Healing Potion 
+- Heal 2d4p per use
+* Appearence 
+- Color         : Red 
+- Aroma         : Putrid  
+- Opacity       : Cloudy  
+- Viscosity     : Blood  
+- Effervescence : No  
+- Rarity		: Rare
+ 
+
+Healing Potion 
+- Heal 3d6p per use
+* Appearence 
+- Color         : Red 
+- Aroma         : Putrid  
+- Opacity       : Muddy     
+- Viscosity     : Egg Yolk 
+- Effervescence : No  
+- Rarity		: Very rare
+ 
+
+Major Healing Potion 
+- Heal 4d8p per use
+* Appearence 
+- Color         : Red 
+- Aroma         : Putrid  
+- Opacity       : Opacque   
+- Viscosity     : Syrup   
+- Effervescence : No  
+- Rarity		: Legendary 
+ 
+
+Potion of Idefatiable Dynanism
+- Become hyper, imrpoved weapon speed, intiative and more 
+* Appearence 
+- Color         : Purple brown 
+- Aroma         : Mint 
+- Opacity       : Muddy 
+- Viscosity     : Egg Yolk  
+- Effervescence : Yes 
+- Rarity		: Rare  
+
+Tonic of Intemperence
+- Cause the user to become wasted even i small amounts. 
+* Appearence 
+- Color         : Wine  
+- Aroma         : Odorless  
+- Opacity       : Cloudy 
+- Viscosity     : Water  
+- Effervescence : No 
+- Rarity		: Uncommon 
+
+Potion of Invisibility
+- For a short duration the user becomes invisible, < 1 min 
+* Appearence 
+- Color         : Gray
+- Aroma         : Odorless 
+- Opacity       : Translucent 
+- Viscosity     : Blood  
+- Effervescence : No 
+- Rarity		: Rare
+ 
+
+Potion of Enhanced Invisibility
+- Become invisible for 8 hours, Status Forced Legendary, any
+who knows the recipie has been killed. 
+* Appearence 
+- Color         : Colorless 
+- Aroma         : Odorless 
+- Opacity       : Transparent 
+- Viscosity     : Water  
+- Effervescence : No 
+- Rarity		: Legendary
+ 
+
+Potion of Mental Domineering
+- Allows one to user to psychicly dominate another humanoids mind for > 2 min 
+* Appearence 
+- Color         : Grass Green  
+- Aroma         : Citrusy 
+- Opacity       : Murky 
+- Viscosity     : Syrup  
+- Effervescence : No 
+- Rarity		: Very Rare
+ 
+
+Potion of Mind Control 
+- The user becomes highly susepctible to suggestions for > 20 min
+* Appearence 
+- Color         : Red 
+- Aroma         : Citrusy 
+- Opacity       : Muddy 
+- Viscosity     : Blood  
+- Effervescence : No 
+- Rarity		: Rare
+
+ 
+
+Potion of Orchish Steadfastness
+- Allows one to ignore the effects of fatigue for > 20 min 
+* Appearence 
+- Color         : Colorless  
+- Aroma         : Putrid  
+- Opacity       : Cloudy 
+- Viscosity     : Blood 
+- Effervescence : Yes 
+- Rarity		: Common 
+ 
+
+Poisend 
+- A Potion made gone awry possesing negative effects
+
+ 
+
+Potion of Prescience
+- Make initative die a d3 for 1 hr 
+* Appearence 
+- Color         : Gray  
+- Aroma         : Pine  
+- Opacity       : Cloudy
+- Viscosity     : Water  
+- Effervescence : No 
+- Rarity		: Rare
+ 
+
+Potion of Sleep 
+- Causes the user to fall to sleep for 8 hours. Can't wake up. Also makes the user feel refreshed as if 24 hr had passed when they wake up. 
+* Appearence 
+- Color         : Green 
+- Aroma         : Wax 
+- Opacity       : Translucent
+- Viscosity     : Water  
+- Effervescence : No 
+- Rarity		: Rare
+ 
+
+Soaring Dram
+- For > 60 min gain the effect of FLIGHT 
+* Appearence 
+- Color         : Bronze  
+- Aroma         : Wax  
+- Opacity       : Muddy 
+- Viscosity     : Syrup  
+- Effervescence : Yes 
+- Rarity		: Very Rare
+ 
+ 
+Soporific Potion 
+- Fall in a coma for >> 2 days 
+* Appearence 
+- Color         : Colorless 
+- Aroma         : Chocholate 
+- Opacity       : Muddy 
+- Viscosity     : Egg yolk  
+- Effervescence : No 
+- Rarity		: Very Rare
+ 
+
+Potion of speed
+- All physical actions take 1/2 amount of time. Including move and weapon speed. 
+* Appearence 
+- Color         : Red  
+- Aroma         : Pine  
+- Opacity       : Muddy 
+- Viscosity     : Honey  
+- Effervescence : Yes 
+- Rarity		: Very Rare
+ 
+
+Strenght of Iron Brew
+- User add 1d6 points to their STR score for > 30 min 
+* Appearence 
+- Color         : Red 
+- Aroma         : Woddy  
+- Opacity       : Opacque
+- Viscosity     : Syrup 
+- Effervescence : Yes 
+- Rarity		: Rare
+ 
+
+Potion of Unyielding Vigor 
+- Makes STR score 20/51 for > 30 min 
+* Appearence 
+- Color         : Wine  
+- Aroma         : Yeasty  
+- Opacity       : Translucent
+- Viscosity     : Oil  
+- Effervescence : Yes 
+- Rarity		: Very Rare 
+ 
+
+Venus Elixir
+- A POWERFUL love potion, effect PERMANENT
+* Appearence 
+- Color         : Pink  
+- Aroma         : Chocholate 
+- Opacity       : Muddy
+- Viscosity     : Egg Yolk 
+- Effervescence : No 
+- Rarity		: Legendary 
+ 
+
+Potion of Water breathing 
+- Allows the user to breath underwater for > 2 min
+* Appearence 
+- Color         : Ebony  
+- Aroma         : Whiskey  
+- Opacity       : Cloudy 
+- Viscosity     : Water  
+- Effervescence : Yes 
+- Rarity		: Uncommon
+
+ 
+
+Maybe all potions with a highly limitide effect duration will have an enhanced version with extended duration
