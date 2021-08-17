@@ -150,7 +150,132 @@ https://www.askaprepper.com/how-to-make-gun-powder-the-old-fashioned-way-in-less
 
 https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemist%27s%20fire
 
+Alchemist Fire Recipe
+https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemist%27s%20fire
 
+Alchemy Manual
+https://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual
+
+https://www.wikihow.com/Make-a-Smoke-Bomb
+
+Effervescence = Mouserande
+
+Essence of Anlgesia 
+- Pain remedy. Increases ToP 
+* Appearence 
+- Color         : Grass Green
+- Aroma         : Lemon
+- Opacity       : Murky
+- Viscosity     : Syrup
+- Effervescence : No
+- Rarity		: Common  
+
+Broth of Animal Control 
+- Can control normal Animals
+* Appearence 
+- Color         : Ebony 
+- Aroma         : Chocholate
+- Opacity       : Transparent
+- Viscosity     : Egg Yolk
+- Effervescence : Yes
+- Rarity		: Uncommon 
+
+Potion of Ardor 
+- Weak love potion, long duration
+* Appearence 
+- Color         : Dark marine blue 
+- Aroma         : Odorless
+- Opacity       : Muddy 
+- Viscosity     : Syrup
+- Effervescence : No
+- Rarity		: Uncommon 
+
+Potion of Breathlessness
+- For a short duration, the user does not need to breath. 
+* Appearence 
+- Color         : Ebony 
+- Aroma         : Chocholate
+- Opacity       : Transparent 
+- Viscosity     : Honey 
+- Effervescence : Yes 
+- Rarity		: Rare
+
+
+Potion of Buoyancy
+- Allows the user to for a short duration, levitatet with limited speed
+* Appearence 
+- Color         : Milky 
+- Aroma         : Lemon 
+- Opacity       : Transparent 
+- Viscosity     : Syrup
+- Effervescence : Yes 
+- Rarity		: Rare
+
+
+Cordial of Clairaudience
+- Increase initative, and listening capabilities of the user
+* Appearence 
+- Color         : Orange 
+- Aroma         : Citrusy
+- Opacity       : Opacque
+- Viscosity     : Syrup 
+- Effervescence : No 
+- Rarity		: Rare
+
+Climber's Draught
+- Allows the Climber to climb any surface witouth a climbing check. 
+* Appearence 
+- Color         : Blue 
+- Aroma         : Citrusy 
+- Opacity       : Cloudy 
+- Viscosity     : Honey 
+- Effervescence : No 
+- Rarity		: Uncommon 
+
+
+Potion of Duplicity
+- Fake potion of healing, made by priests. 
+* Appearence 
+- Color         : Red 
+- Aroma         : Sulfurous
+- Opacity       : Murky 
+- Viscosity     : Blood 
+- Effervescence : No 
+- Rarity		: Uncommon
+
+
+Potion of Fleet feet 
+- 1 hour, double movement speed and +3 def 
+* Appearence 
+- Color         : Orange 
+- Aroma         : Cinamon 
+- Opacity       : Opacque 
+- Viscosity     : Syrup
+- Effervescence : No 
+- Rarity		: Uncommon 
+
+
+
+Potion of Gigantism
+- Grow 1 Size category. Limited bonus expect size 
+* Appearence 
+- Color         : Brown 
+- Aroma         : Putrid
+- Opacity       : Transparent 
+- Viscosity     : Oil
+- Effervescence : No
+- Rarity		: Rare
+
+
+Potion of Hill Gigantism
+- The user becomes a Hill Gigant. Maxing STR score and gaining large ATTACK bonus
+* Appearence 
+- Color         : Red 
+- Aroma         : Musky 
+- Opacity       : Opacque
+- Viscosity     : Blood 
+- Effervescence : No 
+- Rarity		: Very Rare
 Potion of Hoar Frost Gigantism 
 - The user becomes a Frost Gigant, STR, RES ATTACK bonus and all 
 * Appearence 
