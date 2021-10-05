@@ -1,4 +1,6 @@
 
+https://www.justonecookbook.com/tonkatsu/
+
 Here is a 1st official draft of the crafting skill 
 
 Prerequiste : Botany, Monster Lore, Arcane Lore >= Average [26], Mathematics >= Novice [1]
