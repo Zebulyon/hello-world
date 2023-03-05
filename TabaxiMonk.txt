@@ -1,0 +1,475 @@
+Average Litter Size cats : 3-5
+
+
+Stats:
+18 16 14 12 10 8
+
+Name 	: Flash Kitty 
+Class	: Monk, Drakewarden 
+Race  	: Tabaxi
+LvL 	: 5
+
+-----------------------------
+Heros of Legends info
+
+Other Race's :
+Other Races: The character is of a race not normally found mixing in
+with the races listed above. 
+
+Unless otherwise specified, these races all use 630 Monster Events 
+for race specific events. 
+	Beastmen: 
+		Beastman: Part man, part beast, this racial category includes minotaurs,
+		centaurs, satyrs, fauns, and goatmen. A beastman's personality reflects its
+		bestial nature: Minotaurs rush headlong into things. Centaurs have the
+		nobility (or stupidity) associated with horses, and goatmen and satyrs have
+		particular "appetites." Culture: A centaur may be Civilized.
+		Other races will never have more than a Barbarian Culture.
+
+	Heritage:
+		The character was born in a different land and moved to his land upon reaching 
+		adulthood. He likely stands out as an foreigner. 
+		
+	Culture:
+		Barbaric:
+			Barbarians are generally thought of as crude and semiliterate. In fact, they are not. Barbarian
+			cultures are dynamic, often highly educated societies with a keen sense of propriety and law
+			and order. 
+			In a sense, they are pre-Civilized-organized, but not yet developed (or degenerated) 
+			to the point where powerful central governments are needed.
+			
+			CuMod	:	2
+			Native	: 	Wilderness/Rural/Urban
+			Survival:	6
+			
+	Social Status:
+		Comfortable:
+			SolMod	: 4
+			Survival: -
+			
+			Game-play Benefits: 
+			The character may add 5% to his chance to be literate. 
+			He may also own an heirloom weapon.
+			
+			Money: 
+			100% of normal starting money.
+			The character has no problem borrowing money
+			at reasonable rates.
+
+			Role-play: 
+			Folk from this Social Status are
+			considered to represent the mainstream of their
+			Culture's beliefs and attitudes.
+			
+			Family 
+				Head:
+					Is my Mother
+					
+				Jobs	 : Each members have one job
+				
+				Mother 	 :
+					1 thing of note 
+						NPC has an obsession
+							A relationship - t.745
+							Has an obsession regarding a criminal - A Pirate 
+				
+				Father   :
+					1 thing of note
+						Affected by an exotic event - 642
+						Was incorrectly believed to be the chiefs offspring 
+						He was then found out to be false, and imprisioned 
+						Then the actual offspring returned and he was freed
+						
+						
+				
+				Siblings :
+					A 1d6 litters [ 2+1d3]
+					1.st litter 4
+						Has a companion - 753 A kid - They share the same enemy [754 - 755] - They are loyal friends 
+						M
+						
+						Has achived a new Social Status 
+						M
+						
+						Has achived a new cultural background
+						M
+						
+						Affected by an exotic event - Has an spiritual guardian - Either Ancestral Barb or Spiritual Monk 
+						M
+						
+					2.nd litter 3
+						1d3 Exotic Personality Traits - Allergy [Fur - Deadly] and a mental Affliction [Catatonia - can't handle stress]
+						F
+						
+						Has achived a new Social Status 
+						F
+						
+						Devotes a lot of time to a hobby - Needlework 
+						M
+						
+					3.rd litter	3
+						A military veteran - Medium infantry - Corporal [2] - State military - Died in service 
+						M
+						
+						Affected by an exotic event - Drean wanderer 
+						M
+						
+						Has achived a new cultural background
+						M
+						
+					4.th litter 5
+						Has a unusual ability or physical feature - Snake Fangs (From a curse) - Extra right leg 
+						F
+						
+						Has a secret identity - Social status, Culture, Job 
+						F
+						
+						Horribly wounded - Suffered from a terrible cough when young their lungs are now damaged 
+						F
+						
+						Unfaitful towards their spouse 
+						F
+						
+						Has achived a new social status 
+						M
+						
+					Total 15 Siblings 
+			
+			Birth 
+				Born in summer
+				
+				Place of birth
+					Location	: In a Cave 
+					BiMod		: 10
+					
+					No unuseful birth occurrences 
+					
+			Events during road to adulthood 
+				3 events during youth 
+				
+				SOLMOD : 4
+				
+				6 years 
+				Devolpes a jaded taste for expensive/exotic pleasures
+				[D]
+				
+				8 years 
+				A tradgedy - 624 - My favored person dies my sibling in the military 
+				[R]
+				
+				12 years 				
+				Something wounderful happens - 625
+				During the instance of my fathers imprisonment a false ruler takes over the tribe. 
+				After the true offspring returns and reclaims his birthright my father gets pardoned and elevated as he aided in the dowthrowal of the false ruler. 
+				[L]
+				
+				1 events during adolescens 
+
+				14 years 
+				I serve a patron (At least for some time) - The chief - his influence was local - I set out to travel widly for the patron to see the world and document it. 
+				[N]
+				
+			Events during apprenticship to me 
+				Exotic event - 642
+				Survives an attack agains a monster - Sea Monsters (A Giant Shark) - And gains insight into fighting furture instances of the beast 
+				
+			Hobbies 
+				Cosmetics - 1 ranks 
+				Fishing   - 1 ranks 
+				Collecting (Some form of item) - 2 ranks
+			
+			Events during adulthood 
+				
+				2 events 
+				
+				Learn to use a new weapon 
+				
+				Becomes involved in illegal activities - Needed money to pay debts - So I was forced to serve on a pirate crew for some time 
+				3 events occured during this time - 631d 
+				The captian treats captives harshly - 523 
+				I become highly trusted and lears a lot about rival pirates home of operations 
+				Becomes highly proficient in the use of a cutlass 
+				-
+				2 events of normal underworld  
+				He is usually assumed to be a person involved for a crime 
+				Aquires knowledge in thievery 
+				[D] 
+			
+			
+			
+
+
+ 
+------------
+
+
+Personality :
+
+Most important person is one of my siblings
+	Average intrest
+
+My most important possession is a Tool 
+	Weak intrest 
+
+My most important abstraction is Freedom 
+	Strong 
+				
+L 3 
+
+
+
+---------------
+Name : Flashing Thunder over Valleys (Flash) 
+Race : Tabaxi 
+Class: Monk (Drakewarden) 
+
+Place of Origins:
+I stem from a clan of Tabaxi found in lush jungles.
+
+Birth : Born during the Summer months
+
+Backstory :
+
+------
+11 child Flash - 27 years old 
+
+Family 
+
+As a Tabaxi the size of my family is quite large, and my specific one is a bit larger than most. 
+
+The head of the family is my mother:
+	* Name 			: Winding Valleys (or Windi for short)
+	* Age  			: 63 years of age 
+	* Thing of note : Was previously on a journey of her own during which she ended up in a scuffle with the Drow Pirate Jarlaxe Baenre, and ended up losing her dominant arm. She searched for him for many years but felt she had to give up at one point to return home and start a family. 
+
+My father :
+	* Name			: Jade Valleys (Known as Jade, previous name was Jade Shoe
+	* Age 			: 61 
+	* Thing of note : Was involved in a inheritance scuffle, regarding the tribe chief, during which he aided the rightful heir to reclaim his throne and in turn earning himself a personal friendship with the chief's family. 
+
+Siblings 
+	(M = Male, F = Female)
+	
+	Litter 			: 1
+	
+	* Name			: Five Valleys [M]
+	* Age 			: 33
+	* Thing of note : Last I heard he hade picked up an orphan kid, and is currently aiding the kid in finding the revenge on his fathers killers. 
+ 
+	* Name			: Smoking Valleys [M]
+	* Age 			: 33
+	* Thing of note : Last I heard he was able to get close with a noble lady in some remort port and things were looking up for him, unlikely htat he will return home I think. 
+
+	* Name			: Skirt Valleys [M]
+	* Age 			: 33 
+	* Thing of note : Got a job as a teacher at a school of some kind, I think his subject had something to do with magic
+
+	* Name			: Quiet Valleys [M]
+	* Age 			: 33
+	* Thing of note : After an event during his childhood in which he nearly died he learned that he hade the knack for Shamanism, as he was abke to call on the aid of our ancentors, he remained in our villages, he was never really the adventure type. 
+
+	Litter 			: 2 
+	
+	* Name			: Curious Valleys [F]
+	* Age 			: (Would have been 31 years old) 
+	* Thing of note : Sadly died soon after being born, she supposedly quickly developed serious rash and difficulty breathing when she began to grow fur. She died before anyone was able to come up with a cure. (Was born allergic to fur)
+
+	* Name			: Ribbon of the Valleys [F]
+	* Age 			: 31
+	* Thing of note : Saw her about 5 years ago last, during which she hade ended up under the employ of a merchant. She seemed to be happy with her situation. (Currently employed as a high-ranking maid)
+
+	* Name			: Tale of Valleys [M]
+	* Age 			: 31 
+	* Thing of note : Lacked the spirit for adventure and stayed home, he really liked sewing, so last I saw him he was working as an apprentice under the village leatherworker
+
+	Litter 			: 3
+
+	* Name			: Riddling Valleys (Riddle) [M]
+	* Age 			: 29 
+	* Thing of note : Went out and became a member of a seafaring vessel
+
+	* Name			: Lost Valleys [M]
+	* Age 			: 29 
+	* Thing of note : Sadly paralyzed from the waist down whilst at the same time having a heart for adventure. So he is unable to leave the village, he later did discover that he had a knack for walking the dream walking, currently apprenticing with Quiet as a Shaman. 
+
+	* Name			: Ancient Valleys [M]
+	* Age 			: 29 
+	* Thing of note : Decided that he wanted to return to the ways of our ancentors so joined one of the cults of Zaltec, he wanders our homelands more beast than man. 
+
+	Litter			: 4
+	
+	Myself and my four sibling of the same litter. 
+	
+	* Name			: Silver Valleys [F]
+	* Age 			: 27
+	* Thing of note : When I met her last she had ended up growing an extra righ leg. Said it happened after drinking a potion that she had found. (A failed attempt by someone to make a potion of spider climb)
+	
+	* Name			: Lazy Valleys [F]
+	* Age 			: 27
+	* Thing of note : Oddly very lazy nowadays, she had so much energy when she was younger. Works a barmaid in the capital port. (Unkown to me she is secretly a spy for the local government)
+
+	* Name			: Night-sky over the Valley's 
+	* Age 			: 27
+	* Thing of note : Has had a terrible cough since she was young. My mother she would first go the same way's as Curious, but she has survived so far. Tough her CON is very <= 5.	
+
+	* Name			: Two Valleys [M]
+	* Age 			: 27
+	* Thing of note : Lacked the sprit of adventure, so he stayed home and got a family quite early in life. He does however practice what he calls the way of love, which basically means he can't stop himself from going down on just about anyone. His wife divored him last I saw him. 
+
+	* Name			: Cargy Valleys [M]
+	* Age 			: 27 
+	* Thing of note : Had become a quite well-to-do merhcant last I saw him. 
+
+
+-----------------------------------------
+
+Flash's Pirate Adventure 
+
+There was also one time when I lacked the funds for traveling so I chose a random ship and
+decided to become a stowaway.
+To my amazement I learned it was a Pirate vessel, belonging to the Crimson Skull* pirate crew.
+
+I was able to ingrate myself with the crew and captain, by aiding the crew in defeating some Giant Shark's
+and personally saved the captain from the sharks jaws. 
+Granted it was because he was currently holding some of my personal belongings, but who cares about the details.
+
+The Crew Consisted of :
+
+* The Captain 
+- Alfred 'Rum Lover' Redcap
+- Human 
+- Enoy Wrestling. Made it a creed that disputes onboard should be settled by wrestling. 
+- An Exotic Event t.642
+- Has daddy issues, talks about him a lot when drunk
+
+* The Quarter master
+- Elgin 'Two Toes' Stone
+- Master Gunner
+- Crossbreed 
+- Half-ling 
+- Fishing 
+- Has a companion t.753
+- He regards himself as the most important in his life 
+
+* The First Mate
+- Lou-Lou Stubs
+- Boatswaine 
+- Human 
+- Creative Writing Poetry 
+- A religous experience t.693
+- Her lover is her most important character
+
+* The Second Mate 
+- Toothless Pete 
+- Navigator 
+- Human 
+- Fishing 
+- Something wonderful happens t.625
+- He regards himself as the most important in his life
+
+* The Third Mate 
+- Elnora ‘Evil Grin’ Neale
+- Doctor / Surgeon 
+- Dwarf
+- Gardening 
+- Underworld Events t.631
+- The captain is her most important character in her life 
+
+* Crew Member 
+- 30 more crew memebers 
+
+
+
+
+
+
+----------
+Navigator
+
+Boatswaine 
+- In charge of maintence of the ship
+
+Cooper 
+- In charge of barrel making and maintance 
+
+Carpenter
+- The carpenter, who generally answered to the boatswain, 
+was in charge of ensuring the ship’s structural integrity. 
+He was tasked with fixing holes after combat, making repairs 
+after a storm, keeping the masts and yardarms sound and functional, 
+and knowing when the ship needed to be beached for maintenance or repairs.
+
+Doctor/Surgeon 
+
+Master Gunner 
+
+Musicians 
+
+
+
+
+
+
+
+, the Captain (Alfred 'Rum Lover' Redcap) was not happy with me when they finally managed to
+capture me, they took my stuff and prepared to make me walk the plank. That was one a
+lesser swarm of GIANT Shark (CR 5 monster) attacked, one of them jumped the ship and
+was able to knock Alfred and some crew down into the water. Seeing this and releasing that
+Alfred had Velvet’s necklace with him when he fell in, caused me to dive down after. Would
+likely have died as well if it wasn’t for the crew screaming that I should strike under its nose
+just before the Jaw line to stun, and this combined with my THUNDER PAWS, allowed me
+to reclaim my stuff, survive and rescue Alfred as well.
+After that little endeavor, Alfred’s tune changed quite drastically and we were able to become
+close friends. I journeyed with the Crimson skulls for about 1-2 years.
+IT . . . WAS . . . LEGENDARY.
+We fought sea-beasts, other pirate crews, and some navy people. During this time I was never
+allowed to learn the location of their own treasure stash, but I did learn the location of the
+Base of Operation for many of their rival Pirate Crew.
+I then left the crew and continued on with my journeys , I carry a scarf of their jolly roger
+around my neck, at most times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
