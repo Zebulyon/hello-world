@@ -530,3 +530,12 @@ Potion of Water breathing
  
 
 Maybe all potions with a highly limitide effect duration will have an enhanced version with extended duration
+----
+
+https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503866
+https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46081
+https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=582586
+https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086
+https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497810
+https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420668
+
