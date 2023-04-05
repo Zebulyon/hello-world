@@ -1,0 +1,953 @@
+
+
+---
+Starsong
+Day XX of YY
+Blue clothes, No facial beard, Purple hat not plume. 
+Black hair, blue eyes white teeth. 
+Walked in to QQ, never left
+
+Day XX of YY
+Purple clothes, A small mustach, black top hat. 
+Grey hair, green eyes. 
+walked in to QQ, then moved to QQ, never left. 
+
+Weirdbootle
+Gnome, dark grey hair, moves
+
+Hunter
+This fuckhead constantly scutters around the roof tops like the insect he is. 
+Allegedly he seem to frequently visit QQ. 
+
+Horn
+
+
+Yaefara
+
+
+The abomination uses stats similar to an Ooze. 
+By that I mean that it has a lot of health, tought not all that much DR, like the normal Zombie. 
+As well as if damaged enough by a cutting weapon it will start to split apart, each part being able to move by its self. 
+It is capable to grab Number of PC's - 2 at the same time. And is able to bite multiple victims at once. 
+Its bite is highly contaigouse with the zombie virus
+Requiring victims do performs saves against the virus after each instance of an attack that draws blood. 
+If it can successfully grab an victim and bite down. It will also be able to transfer rotgrubs into the victim. 
+
+The area will also contain som wandering skeletons and the lonely zombie. 
+As well as some crawling claws. 
+
+The Hlevtagnis area, contains a total of 1d20+10 Grunts. The area also contains a number of different varieties of simple traps. 
+Snare traps, simple spike traps, bear and fox traps, some odd more complicated arrow traps. 
+The area overall contains a lot of scrap and rubble covering the floors. Mostly there to hide the traps. 
+This area does not contain a lot of powerful items, instead this is were some slaves can be found on behalf of Hlevtagnis, some tortured adventures, random people from the streets. 
+Some fenced and smuggled goods. Very small amounts of it is in actual cash and most of it will require access to a fencer to handle properly. 
+
+---
+Alchemist Fire Recipe
+https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemist%27s%20fire
+
+Alchemy Manual
+https://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual
+
+https://www.wikihow.com/Make-a-Smoke-Bomb
+
+Effervescence = Mouserande
+
+Essence of Anlgesia 
+- Pain remedy. Increases ToP 
+* Appearence 
+- Color         : Grass Green
+- Aroma         : Lemon
+- Opacity       : Murky
+- Viscosity     : Syrup
+- Effervescence : No
+- Rarity		: Common  
+
+Broth of Animal Control 
+- Can control normal Animals
+* Appearence 
+- Color         : Ebony 
+- Aroma         : Chocholate
+- Opacity       : Transparent
+- Viscosity     : Egg Yolk
+- Effervescence : Yes
+- Rarity		: Uncommon 
+
+Potion of Ardor 
+- Weak love potion, long duration
+* Appearence 
+- Color         : Dark marine blue 
+- Aroma         : Odorless
+- Opacity       : Muddy 
+- Viscosity     : Syrup
+- Effervescence : No
+- Rarity		: Uncommon 
+
+Potion of Breathlessness
+- For a short duration, the user does not need to breath. 
+* Appearence 
+- Color         : Ebony 
+- Aroma         : Chocholate
+- Opacity       : Transparent 
+- Viscosity     : Honey 
+- Effervescence : Yes 
+- Rarity		: Rare
+
+
+Potion of Buoyancy
+- Allows the user to for a short duration, levitatet with limited speed
+* Appearence 
+- Color         : Milky 
+- Aroma         : Lemon 
+- Opacity       : Transparent 
+- Viscosity     : Syrup
+- Effervescence : Yes 
+- Rarity		: Rare
+
+
+Cordial of Clairaudience
+- Increase initative, and listening capabilities of the user
+* Appearence 
+- Color         : Orange 
+- Aroma         : Citrusy
+- Opacity       : Opacque
+- Viscosity     : Syrup 
+- Effervescence : No 
+- Rarity		: Rare
+
+Climber's Draught
+- Allows the Climber to climb any surface witouth a climbing check. 
+* Appearence 
+- Color         : Blue 
+- Aroma         : Citrusy 
+- Opacity       : Cloudy 
+- Viscosity     : Honey 
+- Effervescence : No 
+- Rarity		: Uncommon 
+
+
+Potion of Duplicity
+- Fake potion of healing, made by priests. 
+* Appearence 
+- Color         : Red 
+- Aroma         : Sulfurous
+- Opacity       : Murky 
+- Viscosity     : Blood 
+- Effervescence : No 
+- Rarity		: Uncommon
+
+
+Potion of Fleet feet 
+- 1 hour, double movement speed and +3 def 
+* Appearence 
+- Color         : Orange 
+- Aroma         : Cinamon 
+- Opacity       : Opacque 
+- Viscosity     : Syrup
+- Effervescence : No 
+- Rarity		: Uncommon 
+
+
+
+Potion of Gigantism
+- Grow 1 Size category. Limited bonus expect size 
+* Appearence 
+- Color         : Brown 
+- Aroma         : Putrid
+- Opacity       : Transparent 
+- Viscosity     : Oil
+- Effervescence : No
+- Rarity		: Rare
+
+
+Potion of Hill Gigantism
+- The user becomes a Hill Gigant. Maxing STR score and gaining large ATTACK bonus
+* Appearence 
+- Color         : Red 
+- Aroma         : Musky 
+- Opacity       : Opacque
+- Viscosity     : Blood 
+- Effervescence : No 
+- Rarity		: Very Rare
+
+
+Potion of Hoar Frost Gigantism 
+- The user becomes a Frost Gigant, STR, RES ATTACK bonus and all 
+* Appearence 
+- Color         : Red 
+- Aroma         : Earthy  
+- Opacity       : Muddy 
+- Viscosity     : Honey  
+- Effervescence : No 
+
+
+Healing Ointment 
+- Doubles the natural healing speed of wounds applied on. 
+* Appearence 
+- Color         : Milky 
+- Aroma         : Lavender
+- Opacity       : Opacque
+- Viscosity     : Honey  
+- Effervescence : No  
+
+
+Healing Salve 
+- Heal 1d4p per use 
+* Appearence 
+- Color         : Pink 
+- Aroma         : Citrusy 
+- Opacity       : Opacque
+- Viscosity     : Honey  
+- Effervescence : No  
+
+
+Minor Healing Potion 
+- Heal 2d4p per use
+* Appearence 
+- Color         : Red 
+- Aroma         : Putrid  
+- Opacity       : Cloudy  
+- Viscosity     : Blood  
+- Effervescence : No  
+
+
+Healing Potion 
+- Heal 3d6p per use
+* Appearence 
+- Color         : Red 
+- Aroma         : Putrid  
+- Opacity       : Muddy     
+- Viscosity     : Egg Yolk 
+- Effervescence : No  
+
+
+Major Healing Potion 
+- Heal 4d8p per use
+* Appearence 
+- Color         : Red 
+- Aroma         : Putrid  
+- Opacity       : Opacque   
+- Viscosity     : Syrup   
+- Effervescence : No  
+
+
+Potion of Idefatiable Dynanism
+- Become hype, imrpoved weapon speed, intiative and more 
+* Appearence 
+- Color         : Purple brown 
+- Aroma         : Mint 
+- Opacity       : Muddy 
+- Viscosity     : Egg Yolk  
+- Effervescence : Yes 
+
+Tonic of Intemperence
+- Cause the user to become wasted even i small amounts. 
+* Appearence 
+- Color         : Wine  
+- Aroma         : Odorless  
+- Opacity       : Cloudy 
+- Viscosity     : Water  
+- Effervescence : No 
+
+Potion of Invisibility
+- For a short duration the user becomes invisible, < 1 min 
+* Appearence 
+- Color         : Gray
+- Aroma         : Odorless 
+- Opacity       : Translucent 
+- Viscosity     : Blood  
+- Effervescence : No 
+
+Potion of Enhanced Invisibility
+- Become invisible for 8 hours, Status Forced Legendary, any
+who knows the recipie has been killed. 
+* Appearence 
+- Color         : Colorless 
+- Aroma         : Odorless 
+- Opacity       : Transparent 
+- Viscosity     : Water  
+- Effervescence : No 
+
+Potion of Mental Domineering
+- Allows one to user to psychicly dominate another humanoids mind for > 2 min 
+* Appearence 
+- Color         : Grass Green  
+- Aroma         : Citrusy 
+- Opacity       : Murky 
+- Viscosity     : Syrup  
+- Effervescence : No 
+
+Potion of Mind Control 
+- The user becomes highly susepctible to suggestions for > 20 min
+* Appearence 
+- Color         : Red 
+- Aroma         : Citrusy 
+- Opacity       : Muddy 
+- Viscosity     : Blood  
+- Effervescence :
+
+Potion of Orchish Steadfastness
+- Allows one to ignore the effects of fatigue for > 20 min 
+* Appearence 
+- Color         : Colorless  
+- Aroma         : Putrid  
+- Opacity       : Cloudy 
+- Viscosity     : Blood 
+- Effervescence : Yes 
+
+Poisend 
+- A Potion made gone awry possesing negative effects
+
+Potion of Prescience
+- Make initative die a d3 for 1 hr 
+* Appearence 
+- Color         : Gray  
+- Aroma         : Pine  
+- Opacity       : Cloudy
+- Viscosity     : Water  
+- Effervescence : No 
+
+Potion of Sleep 
+- Causes the user to fall to sleep for 8 hours. Can't wake up. Also makes the user feel refreshed as if 24 hr had passed when they wake up. 
+* Appearence 
+- Color         : Green 
+- Aroma         : Wax 
+- Opacity       : Translucent
+- Viscosity     : Water  
+- Effervescence : No 
+
+Soaring Dram
+- For > 60 min gain the effect of FLIGHT 
+* Appearence 
+- Color         : Bronze  
+- Aroma         : Wax  
+- Opacity       : Muddy 
+- Viscosity     : Syrup  
+- Effervescence : Yes 
+ 
+Soporific Potion 
+- Fall in a coma for >> 2 days 
+* Appearence 
+- Color         : Colorless 
+- Aroma         : Chocholate 
+- Opacity       : Muddy 
+- Viscosity     : Egg yolk  
+- Effervescence : No 
+
+Potion of speed
+- All physical actions take 1/2 amount of time. Including move and weapon speed. 
+* Appearence 
+- Color         : Red  
+- Aroma         : Pine  
+- Opacity       : Muddy 
+- Viscosity     : Honey  
+- Effervescence : Yes 
+
+Strenght of Iron Brew
+- User add 1d6 points to their STR score for > 30 min 
+* Appearence 
+- Color         : Red 
+- Aroma         : Woddy  
+- Opacity       : Opacque
+- Viscosity     : Syrup 
+- Effervescence : Yes 
+
+Potion of Unyielding Vigor 
+- Makes STR score 20/51 for > 30 min 
+* Appearence 
+- Color         : Wine  
+- Aroma         : Yeasty  
+- Opacity       : Translucent
+- Viscosity     : Oil  
+- Effervescence : Yes 
+
+Venus Elixir
+- A POWERFUL love potion, effect PERMANENT
+* Appearence 
+- Color         : Pink  
+- Aroma         : Chocholate 
+- Opacity       : Muddy
+- Viscosity     : Egg Yolk 
+- Effervescence : No 
+
+Potion of Water breathing 
+- Allows the user to breath underwater for > 2 min
+* Appearence 
+- Color         : Ebony  
+- Aroma         : Whiskey  
+- Opacity       : Cloudy 
+- Viscosity     : Water  
+- Effervescence : Yes 
+
+Maybe all potions with a highly limitide effect duration will have an enhanced version with extended duration 
+
+
+---
+
+Acid Neutralizer
+- Brimstone, Salt, Urea 
+
+Antitoxin
+- Blackpowder, Myrrh, Urea
+
+Blood-booiling Pill
+* Improved INITATIVE, and resistance to cold damage
+- Blackpowder, Ginger Extract, Mugwort Extract
+
+Face-Black
+- Lard, Charcole 
+
+Essence of independence
+* Resist charm and mind influencing effects
+- Dew of lunary, Gold, Spirit of wine
+
+Insight Leaves 
+* Helps to recall information
+- Dew of lunary, Spirit of Wine, Mugwort Extract
+
+Vapors of easy breath
+* Grants users resistance to smoke and gas attack 
+- Myrth, Salt, Ginger Extract
+
+Bunk 
+* Dillutes any drug
+- Salt, Urea 
+
+Improved Fertilizer
+* Reduce ground acidity, Improve ground nutrients
+- Magnesium, Phosphorus, Salt
+
+Mimic fibers
+* Repairs plant or wood based material
+- Magnesium, Cytillesh spores
+
+Poison diffuser
+* Dillutes Poison 
+- Brimstone, Salt, Spirit of Wine
+
+Smokestick
+* 10 ft volume of an effect similar to Fog Cloud, duration 1 min
+- Darkwood, Saltpeter
+
+Tindertwig
+* A match stick 
+- Brimstone, Phosphorus
+
+Acid 
+* You can throw a flask of acid as a splash weapon. Treat this attack as a ranged touch attack with a range increment of 10 feet. A direct hit deals 1d6 points of acid damage. Every creature within 5 feet of the point where the acid hits takes 1 point of acid damage from the splash. 
+- Brimstone, Salt, Saltpeter 
+
+Alchemist’s fire
+* You can throw a flask of alchemist's fire as a splash weapon. Treat this attack as a ranged touch attack with a range increment of 10 feet. A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of the point where the flask hits takes 1 point of fire damage from the splash. On the round following a direct hit, the target takes an additional 1d6 points of damage. If desired, the target can use a full-round action to attempt to extinguish the flames before taking this additional damage. Extinguishing the flames requires a DC 15 Reflex save. Rolling on the ground provides the target a +2 bonus on the save. Leaping into a lake or magically extinguishing the flames automatically smothers the fire. 
+- Magnesium, Spirit of Wine 
+
+Bloating solution
+* Reduces DC to escape from Ooze, grapeling
+- Phosphorus, Salt, Urea
+
+Congealer spray
+* Imoblizes an Ooze from moving
+- Realgar, Salt, Urea
+
+LYDDRIC ESSENCE
+* Plant killer 
+- Brimstone, Cytillesh Spores. 
+
+Slime Grenade 
+* Armor and Weapon degredation weapon
+- Phosphorus, Quicksilver, Urea
+
+Stormstone
+* A sonic bomb that deals damage
+- Blackpowder, Phosphorus
+
+Suffocating Powder 
+- Brimstone, Phosphorus, Realgar
+
+Tanglefoot bag
+* Reduces movemnet speed 
+- Myrrh, Urea 
+
+Thunderstone 
+* Causes deafness
+- Saltpeter, Silver
+
+
+---
+
+Elven chain mail 
+Cost : 3.5-5 * [Chain mail cost]
+Description :
+Instead of the larger rings usually composing chain mail. These are made of tiny rings, causing the mail to be more like a mesh. 
+This "mesh" has also been designed by studying biology to allow for as small of an restriction to the wielders movement as possible. 
+
+---
+
+
+Allegedly there was an adventure group called Grayscale, there seem to be a connection between this group and my targets.
+Earliest found record of them was found in CAPITAL CITY. 
+
+Starsong
+Day XX of YY
+Blue clothes, No facial beard, Purple hat no plume. 
+Black hair, blue eyes white teeth. 
+Walked in to Dockward trades office, never left
+ 
+Day XX of YY
+Blue clothes, No facial beard, Purple hat no plume. 
+Black hair, blue eyes. 
+Walked in to Blackshark Bar trades office, never left
+
+Day XX of YY
+Blue clothes, No facial beard, Purple hat no plume. 
+Black hair, blue eyes. 
+Walked in to Dockward trades office, never left
+
+Day XX of YY
+Red clothes, polisongs, Purple hat no plume. 
+Blond hair, brown eyes, missing right eye. 
+Walked in to Yawning Portal, never left
+
+Day XX of YY
+Purple clothes, A small mustach, black top hat. 
+Grey hair, green eyes. 
+walked in to Golden Goose, then moved to Store house, never left. 
+
+ 
+
+Weirdbootle
+Gnome, dark grey hair, moves
+Head alchemist of the Black Snake
+
+Very rare for him to leave the office. 
+Moves around with guards
+ 
+
+Hunter
+This fuckhead constantly scutters around the roof tops like the insect he is. 
+Allegedly he seem to frequently visit QQ. 
+
+Day XX of YY 
+I felt that someone was following me. Could have svorn that I heard some movements from the roofs. 
+Had to take actions to lose them from my tail. Probably part of his swarm. 
+ 
+
+Horn
+
+Yaefara
+
+
+
+Heard that the Grayscale should consist of an Half-orc, Gnome, Human, Half-ling, Elf. Starsong I'm finnaly on your track 
+
+---
+
+The goblins possess some items that they have found themselves as well as taken from other adventures. 
+
+Cleric Scroll
+Favors of the Protectors
+
+LvL:            4
+Range:          Touch
+Components:     V, S
+Duration:       Special, up to a maximum 24 h
+Casting Time:   12 s
+Area of Effect: 1 person or mammal
+Saving Throw:   None
+
+The favor of Tymora confers bonuses upon the recipient of +4 on the first saving throw 
+made after the recipient is touched by the priest (even if the save occurs on the same round as the touch), 
++3 on the recipient's next saving throw, +2 on the one after that, then +1 on the following saving throw.
+
+This spell can be added to the available spells of any cleric that is Good aligned
+
+
+Mage scroll 
+Whirling Blade
+
+Lvl:            4
+Range:          0
+Components:     V, S
+Duration:       10s / level
+Casting Time:   2 s
+Area of Effect: Special
+Saving Throw:   None
+
+This spell creates a shimmering, translucent silvery blade of force equal in dimensions and damage to a long sword. 
+It orbits one of the caster's hands and strikes once per round as a magical weapon (+1 to ATK and DMG).
+
+The blade is weightless, and passes through metallic things as though they did not exist, without affecting them.
+
+Metal armor is discounted when determining armor class against blade attacks; i.e. targets receive dexterity 
+and magical bonuses, but not metal shield and mail protection, creatures with naturally tough hides or natural 
+armor plating have their usual armor classes!
+
+A whirling blade also passes through the body of its caster without harm the caster is never imperilled by his own
+weapon. The blade cannot break, but is destroyed instantly by contact with a Arcane Wall.
+
+A whirling blade emits a continuous, high-pitched shrieking noise and vibrations of magical force that cannot be magically
+silenced and therefore cannot be used with any measure of stealth. 
+Note that the caster can hold or carry normal weapons and other inorganic objects in the hand wieleding the whirling blade 
+without hampering its functioning, unless the carried objects are so large as to obstruct the caster's view of foes, or so 
+heavy (10 pounds or more) as to hamper or significantly slow arm movement. 
+
+This magical weapon exists for the duration given or until the caster concentrates on casting another spell, whereupon it vanishes. 
+Wielding and actively using a weapon also disrupts the spell, canceling its effects prematurely.
+
+
+Spellbook :
+
+A. Amplify Illumination 
+
+A. Permanent Mark
+
+J. Bar Portal
+
+1. Translate 
+
+2. Chilling Touch / Shocking Touch 
+
+A dwarf sized ring mail [B:65 SP, S: 50SP]
+3 Quivers of Crossbow bolts. [Normal]
+Flail
+Warhammer        [B:2 SP: S 1 SP]
+2*Longswords     [B:20 SP: S:15 SP]
+Greatsword       [B:30 SP: S:22 SP]
+2* Medium Shield [B:30 SP: S:25 SP]
+
+50+1+2*15+22+2*25= 153 SP =  38.25 SP / Vardera
+
+In coinage : 7 SP 16 CP = 40 SP + 4 CP /Vardera 
+
+
+---
+
+Missjudged, the power of the Elfin mail, it is going to be an expensive endavour. 
+As it is a chain mail, with only a -1 defense modifier. Making it just slightly worse 
+than a +3 Leather armor. 
+
+Priset är 5*En vanlig Chain mail = 1 000 SP = 100 GP 
+
+It is not quite as expensive as one might think, the reason being that I would judge the problem
+to be more of finding an elf capable of creating one, the processes is going to take 3 months to complete. 
+Potentially it could be done sooner but at an increased prices. Take the amount of time reduction and multiply the price, 
+to a minimum of 1 month. 
+
+Ex. 3->1 month = 1/3 => 1000 * 3 = 3000 SP 
+
+
+---
+
+Skullport
+-
+Luften är tjock, unken och lätt fuktig. Påminner om att gå in i en grotta med en underjordisk sjö eller en möglig källare. 
+På allt trä som används för att sätta upp husen kan man see grön-grå aktigt slime mossa, denna mossa täcker även stora delar av vägarna och är väldigt hala som att gå på fallna och blöta löv. 
+
+Inga blommar är synliga, de enda växtligheten som man kan see är denna mossa samt några enstaka svampar. 
+
+---------------------------------------------------------
+
+Don and Hans are not real members of the Xhanatar Guild, they are simply somewhat low level thugs. 
+Something which Don finds himself in but Hans has greater aspirations. 
+
+They have no information regarding the location of a Xhanatar base of operations. 
+
+They can be convinced/talked into working with the PC's if they would so chose. Thus giving them some goons working for them. 
+
+Information they do have access to:
+
+* An individual who calls himself the Lord of Whips has been buying up a lot of slaves recently, his insignia is that of an H but that is all they know. 
+They had some idea of getting into to the slave trade but has not yet been able to expand into it. 
+
+* For undermountain they have 2 pieces of information. 
+    1. During their excursions and visist to Undermountain they have noticed that some adventurers that has been down there for about 1-3 days have come back 
+    acting a bit stiff or maybee awkward would be the more appropriate word for it. 
+
+    2. They have managed to reach the second level of the dungeon complex and found some notes talking about researching some anti-mage weapon. 
+    It should be able to nullify or remove mages ability to control the weave.
+
+
+Should roll up and create a familiar for Stjärnsång and Hans.
+I'm thinking thar Stjärnsång har kunnat spenderat max pengera och tid på att framana sin familiar
+
+Hans är bland lower rangs för Economi, Mid för tid och Vortex. 
+
+
+
+
+
+-----------------------------------------------------------
+
+One-shot - Prision Break 
+
+The PC's currently find themselves in the bottom floor of a prision, tomorrow the PC will be executed/sacrificed so that need to flee today. 
+At the start of the Session, they will be asked what they have done to prepare the escape, each PC will be allowed to say what they have done to prepare. 
+
+1. Prepared gears 
+    * Made shivs
+    * Potentially stolen weapons and hid them away for use
+    * Might have some items hidden away in a stash that if they get to will grant them access to a variety of goddies 
+
+2. Observered guard routines 
+    * Will grant bonuses to stealth and bonus to knowledge checks 
+    * Know where guards will be and when. 
+
+3. Work on an escape route 
+    * Maybe found some wall or floor tiles and worked them loose to gain shortcuts and the like 
+    * Learnt the lay out allowing them to know good ways out 
+
+4. Roused fellow inmates
+    * Convince other inmates to aid them in their scheme would grant either heirling or distraction for the guards 
+
+
+After deciding on what they want to have prepared a Roll will be asked for and the bonuses of their preperations will vary depending on results
+and if it goes really badly might even introduce complixations. 
+
+Potentially will have high leathality and if a PC dies they will simply be replaced by another inmate looking to flee up to certain point
+
+
+
+I ran one a short while ago that went well (due to good dice rolling and some clever ideas)
+
+Part one: Skill challenge to get the guards by the bars so they can be attacked. (Failure means retry later)
+
+Part two: Combat with said guards (they should be very weak)
+
+Part three: Skill challenge to sneak around and get some gear.(Failure means no gear)
+
+Part four: Fighting the guards halfway out.
+
+Part Five: Skill challenge to avoid group of guards coming in to investigate sound of fight. (Failure bing a fight)
+
+Part six: skill challenge to get away form the possee that is pursuing them (Failure is another fight)
+
+The party did well and got away with only three fights.
+
+---
+Just a quick update.
+
+The PCs have finished making characters. All are level 4 and will start with no equipment, for the most part.
+
+Male Human Thief. Street Urchin. Imprisoned for inciting a riot to depose the local iron-fisted tyrant.
+
+Female Changeling Pyromancer Mage. Fluffed as a human with a knack for simple disguise spells. Imprisoned for impersonating the local iron-fisted tyrant during the riots. She managed to smuggle her implement in with her - a Hellfire Cinder Wand fluffed as a magic ring.
+
+Male Longtooth Shifter Paladin. Worships the mysterious Death deity (similar in aspect to the Raven Queen, i.e. not evil). He is fluffed as a human with an anger management problem. Imprisoned for grotesque acts of random violence.
+
+After looking over several sources, I've decided to base the layout of the prison mostly on Shroomy's suggestion of Blackmaw Prison from Dungeon 135. The layout is closest to what I had in mind, though I will be changing some of the details.
+
+The lower level just empties into a waste pit, rather than a mine. This prison is much more bleak than the one envisioned in Blackmaw. The prisoners do not get to leave their cells to work; they are left to rot. Sometimes they don't get fed. There is no laundry facility or much of a kitchen.
+
+The prison itself is a repurposed temple from an ancient culture similar to the mayans or aztecs, and as such the outer shape is very pyramid-like, with a long stair leading up to the top (where the outbuildings are), the centre has a hollow shaft where the elevator has been rigged up, though there is also a long, winding stair that goes around the outside of the (now square) shaft.
+
+The cell blocks are similar to that in the module, but only has one row of cells on a given wall, and instead has the second row directly beneath the first. There are stairs at the end of each cell block to gain access. Each cell on the upper level has a grated hole in the floor where the waste from the cell passes through to a hole in the cieling of the cell below, and on through another grated hole in the floor of that cell. That is, assuming nobody is using the hole at the time.
+
+The cell waste holes all exit out into the main waste shaft in the central chamber of the prison complex. The end of the lower cell block halls, where they are closest to the centre have a grated passage leading back into the main waste shaft.
+
+The prison is filthy, humid, and hot at all times, as it is located in the steaming rainforest in a warm subtropical region of the world.
+
+Escape is possible either by fighting through the guards to the surface (more straightforward, but tougher fights), or via the waste pit (disgusting, and more like an old-school dungeon crawl with Traps, Oozes, Undead, and Vermin).
+
+Skill Challenge and a scuffle or two for the initial escape, then a choice and some more fighting and / or exploring.
+
+This is really starting to come together. Thanks again for the help, fellows.
+---
+I ran my prison break last night.
+
+The players were able to escape, and they took the way I thought was harder - they fought their way out through wave after wave of guards. They took on a level 7 encounter, even after the Pyromancer had already blown his daily during the initial escape. Nobody even dropped, though the Paladin came pretty close. He was handing out temporary hp like candy though, and his longtooth shifter regen was helping keep him up, as was resist all (wis mod) after spending a surge (from Virtuous Recovery).
+
+The Thief was consistently doing 20-something damage per hit, which was nice; everyone commented on the Thief's damage output. Consistent, and high without being overpowered.
+
+The Pyro-Mage was throwing some nice damage around as well with her cinder wand (she smuggled it in *somehow* ;) ), and got several critical hits in, typically 15-20 +1d8 +1d10, so that really helped as well.
+
+The best part was that because they busted out that way, I still have an evening's worth of adventure for the next time we need to do a one-shot. I was actually hoping they would take the sewers, but I guess that will be for next time.
+
+One more thing that I did was because everyone was without equipment, so as not to make them fall too far behind "expectations," I gave out two boons to each of them.
+
+The Thief had Torog's Lament of the Shackled and Davros' Defensive Step, the Mage had her smuggled wand and also Primal Blessing of Fire, while the Paladin had two item-equivalent boons - one worked like a Cincture of the Dragon Spirit, and the other worked like a Belt of the Brawler.
+
+Overall, we had a pretty good time. It was my first time DMing 4th edition (though I am a 20-year veteran GM with 2e, 3.x, Shadowrun, CoC, and Palladium) and I have to say that I thought it went pretty smoothly. Combat went decently quick, though that was probably at least partly due to only having 3 players, but we got through two at-level fights and one level +3 in the span of an evening, with roleplaying, a skill-challenge to break out, and collecting some spoils of victory.
+
+My next actual campaign that I'll be starting in a few weeks will hopefully go as smoothly, though there will be twice the number of players. Thanks for reading, and comments (et cetera) are welcome.
+
+
+I didn't, really. I picked things that I thought were fitting with the character's builds and theme so that it was "just part of them."
+
+I ran the second session of this game last weekend. The players decided to finish exploring the temple after having released the prisoners.
+
+They fell down a waste hole and into the sewage and offal. I hammed up the disgusting factor as much as I could.
+
+They discovered an abandoned storage room where there were some barrels, two of which were still unspoiled (one was pickles, the other was some stout). They took their fill and for that I gave them all back a healing surge.
+
+Moving along, they entered an area where the waste pit seemed to empty out into an older part of the temple, which turned out to be a catacomb from when the temple was still being built. Did I mention that it was a temple of the God of Death?
+
+They got ambushed by an Otyugh and two Carrion Crawlers. Everyone got bloodied and the Thief dropped. He was rescued by the Paladin, however.
+
+It was a short session, so that's as far as we got. They're about to do some poking around, I think, and discover an old reliquary with a powerful Mace for the Paladin waiting for them.
+Reply
+-----------
+
+From time to time the PCs may find themselves incarcerated. There are plenty of reason why this might be the case, but I think it’s fair to say most PCs will try to escape if the alternative is life imprisonment or execution. How the PCs ended up in prison and what happens to them when they get out is entirely up to the DM. This skill challenge just focuses on scenarios the PCs may find themselves in while incarcerated. This can be run as one large skill challenge or a series of smaller ones.
+
+
+Setup
+The PCs are thrown in prison. They may be looking at hard labour, a life sentence or even execution. Unless they are content to die behind bars, escape is the only option. While imprisoned the PCs are given sub-standard rations and begin suffering form malnourishment and fatigue. If an escape plan is in the works, it should be attempted soon.
+
+Why are the PCs in prison?
+The PCs need information from a prisoner. The only way to meet with him face-to-face is to get thrown in prison along side of him. The PCs may pretend to be known criminals or may deliberately commit a crime in order to be thrown in prison.
+The PCs have been framed for a crime they did not commit. The accusations are false, the evidence planted and the magistrate bribed. They have no chance of beating the rap honestly.
+The PCs are guilty. Whether they knowing committed a criminal offensive (with good reason of course) or whether they unknowingly broke a law they were not aware of, they have ended up in prison.
+Complexity
+If this is run as one large skill challenge it should be a complexity 4 or 5. However, this might work better as a series of smaller complexity 1 skill challenges.
+
+Primary Skills
+Athletics, Acrobatics, Bluff, Endurance, Heal, History, Stealth, Streetwise, Thievery
+
+Each skill can only be used to accomplish 1 success towards the overall skill challenge unless noted otherwise.
+Skill checks denoted as assist do not count as a success or failure towards the overall skill challenge.
+Other skills
+Diplomacy, Insight, Perception
+
+Inside the Prison
+Acrobatics (hard DC)
+Tumble gracefully from a balcony to gain access to a restricted area.
+
+Athletics (moderate DC)
+Climb over a wall to gain access to a restricted area.
+
+Diplomacy (moderate DC, assist)
+Earn favour with guards or other prisoners to gain information about the prison or guards.
+
+Success: +2 to Streetwise or History.
+
+Insight (moderate DC, assist)
+Ferret out sympathetic guards and prisoners.
+
+Success: +2 to Bluff check.
+
+Intimidate (moderate DC)
+Show strength in the face of a challenge to earn respect of fellow inmates.
+
+Streetwise (easy DC)
+Learn who the power players are in the prison – inmates and hacks.
+
+Streetwise (medium DC)
+Learn about the prison layout.
+
+Streetwise (hard DC)
+Learn the most likely location of weapons and equipment.
+
+Thievery (hard DC)
+Create improvised thieves tools from common items found in the prison.
+
+Escaping Your Cell
+Bluff (hard DC)
+Fake illness convincing the guards to come into your cell.
+
+Endurance (hard DC)
+Keep up your strength despite harsh conditions and poor food.
+
+Heal (moderate DC)
+Fight off infection or disease due to poor conditions and rotten food.
+
+Insight (moderate DC, assist)
+Ferret out sympathetic guards.
+
+Success: +2 to Bluff check.
+
+Perception (moderate DC, assist)
+You act as the look out while attempting to escape from your cell.
+
+Success: +2 to ally’s Stealth check.
+
+Thievery (hard DC)
+Pick the lock of the cell. The PC must have some kind of tools, even if improvised.
+
+Escaping the Prison
+Acrobatics (hard DC)
+Tumble gracefully from a balcony to gain access to a restricted area.
+
+Athletics (moderate DC)
+Climb over a wall to gain access to a restricted area.
+
+Athletics (hard DC)
+Climb over the wall to escape the prison grounds.
+
+History (moderate DC, maximum 2 successes)
+Recall or learn something useful about the layout of the prison.
+
+Perception (moderate DC, assist)
+You act as the look out for anyone sneaking around the prison or climbing the wall.
+
+Success: +2 to ally’s Stealth check.
+
+Stealth (moderate DC)
+Move about the prison without detection.
+
+Stealth (hard DC)
+Avoid detection in the yard.
+
+Success
+The PCs manage to break out of prison undetected. Which is not to say that they won’t be missed. They have a limited amount of time to put distance between themselves and the prison, but for now no one is looking for them.
+
+Failure
+The PCs are either caught before they escape the prison or manage to just make it out when they are detected. If they are caught before they escape then they will face severe punishment and most likely be moved to a more secure area (making future escape attempts more difficult). If they do manage to make it over the wall, they are spotted during the escape. Guards will be after them immediately. The chase is on.
+
+https://dungeonsmaster.com/2009/06/skill-challenge-prison-break/
+
+
+-------------------
+https://www.dmsguild.com/product/225548/
+------------------
+https://archive.org/details/dungeonmagazine?&sort=-week&page=3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
