@@ -1,0 +1,230 @@
+PC's have a range of levels between 5-10th level. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+1. 
+----------------------------------------------------------------------------------------------------------------------------------------
+A chaotic Sorcerer
+- A 5th level sorcerer of the Wild Magic subclass.
+- With the caveat that every time they cast a spell even cantrips they will have to roll for Wild Magic. 
+-- Change it so that 
+1       A will magic surge. 
+5-2     is a negative modifier - Base ver. lower spell slot level
+6-14    is a standard version of the spell 
+16-19   is an positive modifier - Base ver. high spell slot level 
+20      is a critical. Spell is greatly enhanced - Either 9th level spell slot casting of the spell. Or the spell behaves in the exact manner of their choosing even if it does not follow the normal spell desc. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+2. 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+A muscle Wizard 
+- A 5th level wizard with High STR and CON but low INT and CHA. 
+- His main form of fighting relies on using his sheer brawn to smash his opponents with the spells serving as a enhancement for this purpose. 
+- Is either a Warcaster, Abjuration school or a Bladesinger. 
+
+STR 20
+CON 20
+INT 8
+
+Means Prepared Spells per day 
+=
+LvL 6 - 1 = 5
+
+CANTRIPS 
+
+GREEN FLAME BLADE 
+BOOMING BLADE 
+MENDING 
+MOLD EARTH 
+
+LVL 1 * 4 
+Shield 
+Magic Missle 
+Find Familiar 
+Fog Cloud        (C)
+
+LVL 2 * 3 
+Immovable Object
+Kinetic Jaunt    (C)
+Mirror Image
+Misty Step
+Cloud of Daggers (C)
+
+LVL 3 * 3 
+Spirit Shroud    (C)
+
+
+Possess or is Able to obtain a Sword of True strike that allows the user to cast true strike without concentrating as a normal cantrip not object interaction. 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+3. 
+----------------------------------------------------------------------------------------------------------------------------------------
+Bad hug barbarian 
+- The barbarian subclass from SCAG the focuses on grappeling 
+- Enhance the abilities to not suck so much as
+
+BATTLERAGER ARMOR
+
+When you choose this path at 3rd level, you gain the ability to use spiked armor (see the "Spiked Armor" sidebar) as a weapon.
+While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon 
+attack with your armor spikes against a target within 5 feet of you. 
+If the attack hits, the spikes deal ld4 piercing damage. 
+You use your Strength modifier for the attack and damage rolls.
+
+Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your
+grapple check succeeds. 
+
+BATTLERAGER ARMOR *LVL UP*
+
+You gain proficiency with the armor in question 
+
+You can use your bonus action to make one shove or grapple attack. 
+The shove outside of pushing your target away also deals 1d4 piercing + STR MOD. 
+
+Additionally, when you succeed with a Grapple check you deal 3+STR MOD in damage. 
+You also deal this damage automatically at the start of each of the grappeled targets turn.  
+
+Reckless Abandoned *LVL UP*
+Beginning at 6th level, when you use Reckless Attack while raging, 
+you also gain temporary hit points equal to your CON MOD (minimum of 1). 
+They vanish if any of them are left when your rage ends.
+
+Also during turns you use your reckless abandoned any entity grappled by has disadvantage 
+on their rolls to escape the grapple. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+4.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+The blind master 
+- A frail old man, low physical stats but high WIS and CHA. 
+- Blind so disadvantage on all attacks. And Advantage on attack rolls agains the creature. 
+- Uses the Way of the Astral Self
+
+Rule changes 
+1. Patient defense still gives disadvantageon opponents ATTACK rolls against you even if the blind condition would give them ADV. 
+
+2. The LvL 6 feature ASTRAL sight still gives the user the ability to SEE as stated under the feature, as you open your third astral eye to see
+3. Word of the Spirit simply requires that the target is able to hear you whilst still being within range. 
+
+Improved Skill Proficiency 
+Spela in lite mer på att bli mer ung när han aktiverar SPECTRAL VISAGE 
+Eller Ge Feat Telekinetic
+
+----------------------------------------------------------------------------------------------------------------------------------------
+5. 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+The Jinx 
+
+- Paladin Oath of The Crown 
+- Sufferes from Badluck - Causing him to suffer failures more often and critical failures are more severe
+* Automatically fails any checks in which he rolls rolls 4 on the die 
+* And something goes very bad when rolling a 1 
+* Can not gain advantage on Ability checks or Attach Rolls. 
+* However on a failure caused by a die roll of 4 or below he draws the attantion of any who are not just to his fumblings (i.e. Allies) 
+causing onlookers and enemies to be greatly distracted as they feel compelled to observe the fuck-up that just occured. 
+Each non-ally who witness this fuckup gains disadvantage on any checks made until the start of you next turn. 
+
+- Their strings of badluck has caused them to become depressed, purely rollplay purpose. 
+
+Has Good Stats to compensate for his badluck, tough low wisdom to represents his mental state and lack of situational awareness. 
+
+Changes to Channel Divinity 
+
+Champion Challange *
+Any creature affected by this divinity also has disadvantage on any attacks not directed towards the Paladin. 
+
+Turn the Tide *
+Each creature within 60ft of the Paladins choice that whose HP is below half their max
+gains 1d6+CHA+LVL, and are allowed a new roll to resist spell and condition effects. 
+
+-
+Fail on 5-2 but a 1 is a Crit Success with a Drawback
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+6.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+The Fake 
+
+- 5th lvl - Bard of the Collage of Glamour
+- 1th lvl - Warlock of the Archfey 
+
+* You were a failure a performer incapabel of even distracting and entertaining a baby. 
+- Looks far below average
+- Skills non-existent
+- Middle age and with a child, born out of wedlock and used to blackmail you of whatever small amount of coin you managed to earn. 
+* This was the truth until you met HER, during a night of drunken stupour, having had food drinks and whatever at your audience hands 
+as they threw it against you whilst onstage being unsatisfied of your performance. You had then gotten smashed on cheap alchole and were on your way home. 
+The night carried a deep thick fog, and you got lost and ended up in what you thought was a brothel and found your self a female partner to cry your woes into their bossom. 
+
+This lady of the night however told you, she could make it all better, that all your sorrows and miseries could be gone. That she could give you a fresh start in life. 
+Accepting her deal you entered into a contract and the rules of your pact is as follows. 
+PACT of the FAKER
+- By giving her your child
+- By forever living a lie. Your old name and life must forever stay hidden or else the pact and magic will be broken and all will revert to what it where. 
+- You must gain and giv HER at least one biological every year, failure means that you will biologicly age 1 year. 
+- In exchange you :
+- Become young again, becoming the biological age of 25 and time wont show any effect on you. You most definitly look more atractive then you ever did in your youth, but there is a definitive resemblence to your old self and people of your old life might recoginse you. 
+- Gain a quite literal fey like charm, capabel of spellbinding just about anyone, be it using words, songs, dance or instruments. 
+
+IN META context this means 
+- expertise in all instrument not made of metal
+- expertise in Performance, Pesuasion. 
+- And no limitation to CHA, allowing it go over 20
+* There are drawbacks however. 
+- Your charm and presence is so powerful, 
+-- That no one can forget seeing you always making them able to acuratly give a detailed description of you. 
+-- You always roll any stealth check with disadvantage, you simply being in the vicinity draws others attention to you
+-- Your charm is present even when you take on the appearnce of others, and could create a dissonace allowing others to notice that you are a fake
+
+HOW TO PLAY THE CHARACHTER
+- How many years has the PC been active since making the pact 
+- Have the PC taken steps to hide their old identity, have they simply moved from their old are of living, or have they taken it to larger extreme going out of their way of "removing" all who knew their old life. 
+- The PC outwardly acts like an enchanting performer, but how do they feel internally
+
+
+Spell list
+
+Warlock 
+Cantrips 
+Friends 
+Minor Illusion
+
+LvL 1
+Faerie Fire
+Sleep 
+
+Bard 
+Cantrips 
+Light 
+Dancing Light 
+Vicious mockery 
+
+LvL 1 * 4
+Disguise Self
+Healing Word 
+Tasha's Hideous Laughter
+
+
+LvL 2 * 3
+Cloud of Daggers 
+Mirror Image 
+Nathair's Mischief
+Pyrotechnics
+
+
+LvL 3 * 2
+Enemies Abound
+Slow
+
+----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+despacito
+
+
