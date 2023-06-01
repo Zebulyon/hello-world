@@ -905,6 +905,235 @@ https://archive.org/details/dungeonmagazine?&sort=-week&page=3
 
 
 
+Rolling with Advantage equates that the Average is 2/3 of the die total. Meaning the Average for a d20 is 13.8
+Rolling with tripple advangtage a.k.a rolling three die is a 3/4, Meaning the average for a d20 is 15.4
+Rolling with quadrupple advantage a.k.a. 4/5. 
+
+-------------------
+
+
+
+
+
+The Grand Treasure Hunt 
+
+Setting 
+
+It is 100 years ago that the greate war waged by Kalamar ended, The country after overextending in the war was begining to be pushed back, but on the verge of defeat the king spooken in legend appeared wielding the sword of kings. 
+And through his heroics on the battlefield and insight in policitcal matters the war was able to end quite swiftly with Kalarmars border having been expanded quite greatly, swalowing Pekal amoung other countries. 
+
+After this age of strife followed whilst tense an age of peace under the true kings reign. 
+10 years after the war the Dwarfs that was enslaved by the Kalaramarian empire was released and laws was enacted that forbade discrimination against the other races on baseless grounds. 
+The dwarfs was also given backs some of their old lands. 
+
+But the choosen kings is approaching the end of his life, having already lived for an unatrual long time for a human being currently 138 years old, and concerns are beginning to grow that there will be a war of succession among his children for who will take over his rule. 
+
+--
+
+You however are adventures removed from the innerworkings of the royal court and all in all would likely stand to profit if a war of succession would erupt as that would mean that a lot more work would be availble. 
+Your groups is one with experience having aided in the protection of merchants and villages from the horrors of goblinoids, bandits and wildlife. 
+
+Tough your coffers are begining to wane, in the search of cheap living conditions and work you have moved yourself to be closer to the countries borders, specifically around the area of where some of the old dwarven cities were. 
+On your journey to find a job, you came across the village of Greenest, a small village with around 50 pop, the only notisable thing of the village is that it houses the tower of a State sanctioned Wizard. 
+The mayors daugther has fallen ill and so far they have found no cure, and being so far from a big city and they lack the funds and time to call for a high priest to come and save her. 
+
+The village medicine womans belives the daughter to have less than a moons rotation left, and the mayor desprate for hope has asked you on a mission to go and investigate the validity of a rumor. 
+Allegedly there is a village somewhat close by where there is a fruit able to cure any illness, he knows little else and would normally dismiss this is as whimsical hersay but there is little left for him to bet on. 
+
+He has already spent most of what he has to cure her, but whatever left he can scrounge up without dooming the village he is willing to give you if you can get your hand on this fruit and return with it before his daugther dies. 
+The resident Wizard also propmises that he will owe each of you a favor, a useufl thing to have. In the event you want to gain an inn to the collage in the Capital, identify some items, look through his spellbook, or custom order some scrolls and potions. 
+
+Currently promised rewards - 45 sp per person i.e. a month stay at a private room at a regular inn, including cost for food and drink. 
+
+Outside of the favor owed by the wizard, the party will be able to if they want to raise the payment, 
+to aquire a scroll or a potion
+or borrow a wagon and hierling that can drive it. 
+
+The wagon and hierling will be included up front if there is a Priest belonging to a Lawful diety or NG diety in the party. 
+
+
+It will take 
+1 week by foot 
+5 days by wagon 
+4 days by horse 
+Travel from Greenset to the Oakhurst 
+
+---------------------
+
+The opening scene. 
+
+We find the party having set up camp after 2 days of travels towards Oakhurst. 
+You are currenlty waiting for the campfire to boil up some water and are playing some dice, and are about to start a new round. 
+Roll 1d(Number of Players) to see who is currently winning. 
+
+--
+During the night when most of the party has fallen asleep, a twig blight for each sleeping party member with creep up on the party looking to attack one of the sleeping PC's. 
+The will try to reach the targets neck (a remnant of their vampire instincts), where upon they will strike looking to pierce it with their twig like appendages.
+
+Any damage it deals leave some splinters in the targets wound. 
+A first aid check vs 1d100+30 is needed to remove it. 
+A non crit-failed check deals the recipient 1 damage ignore DR as the splinter is removed forcefully
+A crit-fail, causes some part of the splinter to remain in the wound and can lead to future complications. 
+
+
+****
+HP  : 4
+DEF : +5
+ATK : +3
+DMG : 1d4+1 Piercing damage
+
+DR  : (Look at Barksin)
+- Weak to Hacking and Fire damage, to the point of instant death if damaged by such a source
+- Small DR against Crushing 
+- DR against Piercing 
+
+
+Mosquito vision, able to find and discern heat sources, looking to find juicy blood bags. 
+
+Skills 
+Perception : 40
+Sneaking 30 (+20 in natural terrian) 
+Hiding whilst in hiding it is indistinguishable from a dead shrub. 
+
+
+Intelligence is very low, acting mostly on instinct. 
+But it instinct does tell it to look to attack sleeping foes, which i is able to determine from the heat and oxygen given of from its target. 
+Otherwise it fights until death, it can be turned as if an undead Will factor 2.
+
+If its corpse is investigated a check will reveal that in its head there is what looks like a fang like human tooth. 
+****
+
+Random encounter table
+Nothing 
+Twigblights
+Twigblight infected wildlife currently going crazy from the infection. 
+A Terrible rain storm is raging for 8h, it will either cause your travel time to be increased or if during the night might make you unable to sleep until you find cover. 
+A wounded traveller that could use aid to reach civiliation so that they can get proper treatment. 
+
+---------------------
+
+
+****************************************
+
+
+Does not include cost of food and drinks 
+----
+Inn, Stay 1 day 
+
+poor              0.5 cp - 1 cp 
+common room         2 cp - 5 cp 
+semi-private        5 cp - 10 cp
+private             1 sp - 2 sp 
+
+Inn, stay 1 week, 
+
+poor                2  cp
+common room         13 cp - 30 cp 
+semi-private room   30 cp - 45 cp 
+private room        5  sp - 10 sp 
+
+Inn, stay 1 month, 
+
+poor                6  cp 
+common room         10 sp 
+semi-private room   15 sp 
+private room        35 sp 
+----
+
+Rations, STD        3 cp / day 
+Which we can set as the average price for food / day for an adventurer including both food and drinks 
+
+Does include cost of food and drinks 
+----
+Inn, Stay 1 day 
+
+poor              0.5 cp - 1 cp 
+=> 1 cp + 3 cp =  4 cp 
+
+common room         2 cp - 5 cp 
+=> 5 cp + 3 cp =  8 cp
+
+semi-private        5 cp - 10 cp
+=> 10 cp + 3 cp = 13 cp
+
+private             1 sp - 2 sp 
+=> 20 cp + 3 cp = 23 cp
+
+Inn, stay 1 week, 
+
+poor                2  cp
+=> 2 cp + 3*7 cp =  23 cp
+
+common room         13 cp - 30 cp 
+=> 30 cp + 3*7 cp =  51 cp
+
+semi-private room   30 cp - 45 cp 
+=> 45 cp + 3*7 cp =  66 cp
+
+private room        5  sp - 10 sp 
+=> 100 cp + 3*7 cp =  121 cp
+
+
+Inn, stay 1 month, 
+
+poor                 6  cp 
+=> 6 cp + 3*28 cp =  90 cp
+
+common room         10 sp 
+=> 100 cp + 3*28 cp =  184 cp = 18.5 sp
+
+semi-private room   15 sp 
+=> 150 cp + 3*28 cp =  234 cp = 23.5 sp
+
+private room        35 sp 
+=> 350 cp + 3*28 cp =  434 cp = 43.5 sp
+
+----
+
+We base living expenses on the Common Room. 
+
+Which means that each Adventurer needs to earn about 18 sp a month 
+Reduce cost by 25% if the are far from a large city => 15 sp a month 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
