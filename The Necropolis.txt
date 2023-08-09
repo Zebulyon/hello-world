@@ -70,6 +70,79 @@ En spot hidden eller ekvivalent skill avslöjar hur delar av spacklet på vägga
 
 
 
+Lets set a maximum timer of 2h before the structure collapses in on it self. 
+ 
+
+Structure of Adv. 
+
+Introduction 
+- Setting 
+- Charachters
+    * Each PC gets 1 thing of their choosing that their charachter has
+    * Roll LUCK 
+    * Ask for one thing that makes their chrachter stick out from the rest 
+
+Setup 
+- Temple is opened 
+- Drinks are consumed
+    * Roll for Resist Poison 
+    * Get more clues to what is happening if they succed check 
+- Wake up in the closed off temple
+
+15 min
+
+Hallway
+- Get access to a light source
+    * Failure : gets ONE light source that is unstable, and recive burn makr for 1d3 Fire damage 
+    * Normal  : gets ONE stable light source with no complications 
+    * Hard    : gets TWO stable light source's with no complications 
+    * Extreme : gets THREE stable light source's with no complications 
+    If more than 1 light source is lit at the same time, the party will have to make a CON check every 30 min, Starting with 1 BOON and going down 1 step every 30 min 
+    Failure means they begin to suffer from bad air and could cause complications in the future. 
+
+- See the murals 
+    * Success at obtaining info will lead to a POW check, success allows them to hear the heart beating 
+
+- Find the Alcove's
+    * Will demand a STR to succed for each alcove
+    * Each attempt beyond the first will have the roof begin falling in demanding a DODGE save or take 1d2 damage. 
+    * If they succeed in opening an alcove, ask for POW to see if they hear the heart. 
+
+- Find the trove 
+    * Ask for a spot hidden or Appraise 
+        Spot : 
+        + FAILURE : They see the hole but must approach the scraps to do so starting combat
+        + Success will be against the snakes HIDE check to see if they spot it before it attacks allowing them to initate combat 
+        Appraise : 
+        + FAILURE : Lot of money 
+        + SUCCESS : A good ide for how much gold it is. 
+
+    * See the hole in the plasterd wall 
+    * When entering a 5ft radius from the wood scarps combat starts with the snake attacks 
+
+40 min 
+
+Antechamber 
+- Snake in the middle area hidden among the treasures, will attack if provoked. 
+ 
+- Describe the mummies guarding the Chamber with the stoneblock, blocking passage. 
+
+- The broken plaster wall leading to the ANNEX with it ghostly light
+
+
+Annex 
+- Describe that there are wall murals, the dead body on the floor, the ankh with its little altar. 
+
+- After reading the murals, ask for a LUCK check to see of the beast awakens earlier than planned. 
+
+- If the majority of the party touch the ankh, after describing the scene
+    * Ask for POW check from those that touched it, penalty die for each person in the majority. If party of 4, 3 touch than it is a sanity check with 2 penalty. 
+    * Failure means that they are under the command of Nyar that will have them try and force the remaining PC's to also touch the ankh 
+
+
+60 min 
+
+MONSTER Time 
 
 
 
