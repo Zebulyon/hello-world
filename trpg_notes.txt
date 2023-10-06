@@ -966,6 +966,90 @@ We find the party having set up camp after 2 days of travels towards Oakhurst.
 You are currenlty waiting for the campfire to boil up some water and are playing some dice, and are about to start a new round. 
 Roll 1d(Number of Players) to see who is currently winning. 
 
+Start night Encounter against Twigblight 
+
+
+
+*************************
+Random encounter table
+Nothing 
+
+1. 
+Night Encounter 
+    Twigblights
+
+2. 
+Night Encounter 
+    Twigblight infected wildlife currently going crazy from the infection. 
+
+3. 
+Night Encounter 
+    You notices that a bear is shuffeling around the camp. How do they want to deal with it. 
+
+4. 
+You notices that you accidently placed your camp or lunch break on top of an ant nest. No mayor encounter but as it is fire ants it going to cause some annoyance. 
+
+5. 
+A Terrible rain storm is raging for 8h, it will either cause your travel time to be increased or induce dangers during their travel. 
+    If during the night might make you unable to sleep until you find cover. 
+
+6. 
+A wounded traveller that could use aid to reach civiliation so that they can get proper treatment. 
+    The traveller is an avatar for the Traveller. If PC help them and they are of proper alignment, they will get access to safe houses. 
+
+7. 
+A wounded traveller that could use aid to reach civiliation so that they can get proper treatment.
+    The traveller is a deception, they are a servant to either Nightmare or Hunger. 
+
+8. 
+Roll 1d(Number of Player), The corresponding player see something glimmer by the side of the road. If investigated it is jewlery 
+    * The jewlery belongs to a previous traveller they currently reside in Oakhurst, if returned they will be rewarded greatly. Can otherwise be sold for an ok amount
+    * The jewlery is placed by some tricky fae. If one attempts to pick it up, have them roll vs CHARM (WIS) vs d20+(Avg. +8), Failure means they get high as a kite for 1d6h. And the jewlery becomes becomes a lump of Rabbit Droppings. 
+
+9.
+You find the remains of a carriage that was attacked around 3 days ago. Most of the valuble has already been taken. But there are still some 1d4 days rations, some money. 
+If they go about and give a burial of the dead rider they will get bonus Honor, a simple investigation (Religion check avg) will indicate the his religous belief. And if the buril is made according to their religon they will recieve a minor blessing until the end of the arc dependent on the cermony rite they used. 
+
+10.
+Bandit ATTACKs, they have setup an ambush. The PC can see them before doing the attack if they succeed on Obsv. or List. check. 
+
+11-20 Nothing of Note. 
+ 
+*************************
+
+When they arrive in Oakhurst. 
+
+They can gather rumors and information regadring the fruits and the dangers ahead. 
+
+They can learn of the sidequest in regards to retrieving the sigil ring. If they accept the misssion they migh be "sponsord" with some of their needed resources. 
+
+They can buy/replenish the equipment they might need to take on the dungeon. 
+
+In the town there are some criminals looking to get their hands on the fruits, they will setup an ambush for the PC's when they leave the dungeon. 
+
++++++++++++++++++++++++++++
+
+Hopefully they are able to clear the dungeon and get their hands on the fruit. 
+Survive the ambush
+Complete the sidequest
+
+Leave the dungeon
+Return to Greenest
+Cure the girl
+
+They should at bare minimum ding up a level. 
+
+Afterwards if they complete the quest, they will be celebrated as heros. 
+They will have time to level up, nurse their wounds. 
+
+Afterwards they will be visited by the DROW looking for workers. 
+
++++++++++++++++++++++++++++
+
+
+
+
+
 --
 During the night when most of the party has fallen asleep, a twig blight for each sleeping party member with creep up on the party looking to attack one of the sleeping PC's. 
 The will try to reach the targets neck (a remnant of their vampire instincts), where upon they will strike looking to pierce it with their twig like appendages.
@@ -1095,10 +1179,247 @@ We base living expenses on the Common Room.
 Which means that each Adventurer needs to earn about 18 sp a month 
 Reduce cost by 25% if the are far from a large city => 15 sp a month 
 
+*****
+Magic Item 
 
-https://www.dropbox.com/s/ydzrmc20fuk67w8/The%20Plantlife%20-%20The%20Homebrewery.pdf?dl=0
+The Dragon Egg 
+A seemingly teardrop shaped saphire like jewel 
 
-https://www.dropbox.com/s/3cs7wdfjf7lhmgw/Traveling%20through%20May%20with%20Waltair%20the%20Wanderer..pdf?dl=0
+Any Lore checks leaves the investigator puzzled about its origins and purpose
+
+But through experimentations one notices that it can absorb SP and when done so it will produce water. 
+
+Small Cost will produce one pitchers worth of perferctly pure and clear drinking water. That seemingly begins to drip from the Jewel. 
+
+After recieving a certain amount of SP a new ability will be unlocked 
+The user can now shot out the water out to 20ft away but at the current moment is little more than a Squirt Gun.
+
+After another threshold
+The user can now fire out water to the level of a strong garden hose, not dangerous so far.
+
+After another threshold
+The user can now fire out compressed burst of water, dealing unarmed damage (d4-2)+(d4-2) + 2 up to a range of 20ft 
+
+After another threshold
+Damage increased to 2d4+2 
+
+
+After another threshold
+The water is now like a fire hose requireing the user to be able to withstand the pushback
+It deals a good amount of damage at a range capable of chanign target to attack multiple enemies at a time. 
+
+
+The Jewel is actually a dragon egg waiting to recieve enough SP before it is able to hatch, and will in turn empower it current holder to insentivce it continued useage.
+*******
+
+
+
+Löneökning på 4% - ca 1400 kr ökning 
+Smått besviken på min utveckling skulle vilja se lite mer från mig. 
+
+
+https://i.imgflip.com/61m73w.jpg
+
+
+
+
+Random fluff for books 
+https://forums.giantitp.com/showthread.php?483064-What-s-on-the-Shelf-1001-Essays-Treatises-and-Books-on-Magic
+
+
+Magic Items - 
+Shield of the Mountain Stance 
+* Base Shield gives DEF +6 DR +6
+New Shield when you have your back towards a wall the shield becomes a +9/+9
+New Shield when you have your back free the shield becomes +4/+4 
+
+Instanst Column  
+A heavy metal rod the sice of 20cm long with a diameter 0.5cm 
+There are X commands words for the different forms 
+- Base version - Stick 
+- Quarterstaff 
+- Column - The stick takes on the shape of a 5 ft wide 10 ft high iron pole. Weight is equivalent to size. 
+
+Shield Gauntlet. 
+A gauntelt that becomes an equipped Large Shield. 
+Weighs 3 times the amount of a normal Large Shield. 
+Using a specific handsign with the gauntlet hand, causes the gauntlet transform into a Large Shield after 4s. 
+Transforming back takes 2 s. 
+Drawbacks : Higher likelyhood for shield breaking.
+
+
+
+
+Magical - Ammunitions
+
+Living rope. 
+This rope looks quite similar to regular hemp rope, tough it has a slight green coloration. 
+Upon speaking the proper command word one is able to have the rope become animated, then using an Animal check the rope can be made to behave in the exact manner of the users choosing. 
+------------------
+
+DROW sets up so that the party will be attacked during their travels to induce some level of trust, as they will share some of their healing potions, and help in combat. 
+The reason she is on this quest is that she hopes that if she is able to release Lolth from her prison that she will be rewarded greatly and re-instationed. 
+
+A long time ago shortly after Loths ascenion, as she began he rampage through the lands in preparations to attack the Feywild and exact her revenge. The Feyfolk in the form of the High elves, reached a suprisingly quick conclusion that something had to be done. And through a series of hardfought battles they were able to stop the assualt and push the drow back into the underdark and greatly injuring Loth by cuttin of her head. Her body now serves as little more than a power battery that acts as a Warlock Patron to her follower, but without the head Loth is effectivly neutralized unable to take any actions. 
+
+Now as she raised them to be selfish assholes, many of the high ranking drows see little to no reason to put any real efforts to restore her greatness as they correctly assume that loth will once more take control over their society. 
+But there are small factions that belive this current arrangement to be wrong and that Loth has to be restored. Most of the times these factions are found among the youths and if they are ever discovered they are severly punished if not killed. 
+
+The Head of loth was effictly turned into a relic of its own and sealed in marble like stone. This statuet was then placed in a secure vault among the high elves for hundreds of years until the GROUP broke inn and stole whatever looked cool. 
+The DROW belonged to one of the congregations beliving in Loths right to rule the drow and the world, disillusioned by the Drow Nobles that sit on their laurels not putting any real effort into restoring Loth. The group was however discovered and all but the DROW was killed it managing to flee to the surface. There it spent years tracking down any knowledge about the statuet and was able to come to the conclusion that it must be stored in one of the Treasure Hordes of the GROUP. 
+
+
+
+A Lawful characther
+    I Belive It is wrong to comprise my principle just because they are temporarly inconvinient. 
+
+Lawful vs Evil ex. 
+https://www.youtube.com/watch?v=GKMqxDkc0gY&list=TLPQMjEwODIwMjN9cgyZ8hyMHg&index=2
+
+Give some level of control of the bad guys to other real life people. 
+
+
+
+Priest of Predictions could be nice bad guys.
+
+
+Random Encounter 
+
+Travellers going by a certain route are getting kidnapped. 
+- The Reasons are 
+    * Priest of Gluttoney   : where they are turtored for the sake of their god  
+    * Priest of Agony       : where they are turtored for the sake of their god
+    * Priest of Inequivity  : where they are turtored for the sake of their god
+    * Priest of Disease     : where they are turtored for the sake of their god
+    * Some feyfolk,         : a prank gone to far. 
+
+
+A remote village is revolting because of a hunger strike. 
+- The reasons are that some priest of hunger were/are there and in the processes of destroying their food supply. 
+
+Priest of Hunger, torment village, the ones trying to leave and bring food to the village get captured and tourtured. 
+- The priests have taken the role of the village doctor, and are divirting suspicions by "shareing" their rations, using their ability to not require as much food and water. 
+
+
+https://www.dmsguild.com/product/321845/An-Elf-and-an-Orc-Had-a-Little-Baby-Parentage-and-Upbringing-in-DD
+
+https://www.dmsguild.com/product/432499/Save-or-Suck?src=youtube&affiliate_id=2038543
+
+https://trekiros.files.wordpress.com/2023/04/legendary-resistance-alternatives-_-trekiros-1.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.mythicspoiler.com/who/cards/exterminate.html
+
+https://www.mythicspoiler.com/who/cards/startthetardis.html
+
+https://www.mythicspoiler.com/who/cards/psychicpaper.html
+
+https://www.mythicspoiler.com/who/cards/biggerontheinside.html
+
+https://www.mythicspoiler.com/who/cards/wreckandrebuild.html
+
+https://www.mythicspoiler.com/who/cards/sibyllinesoothsayer.html
+
+https://www.mythicspoiler.com/who/cards/decayingtimeloop.html
+
+https://www.mythicspoiler.com/who/cards/laserscrewdriver.html
+
+https://www.mythicspoiler.com/who/cards/thethirddoctor.html
+
+https://www.mythicspoiler.com/who/cards/metheimmortal.html
+
+https://www.mythicspoiler.com/who/cards/ashadthelonecyberman.html
+
+https://www.mythicspoiler.com/who/cards/riversong.html
+
+https://www.mythicspoiler.com/who/cards/thethirteenthdoctor.html
+
+https://www.mythicspoiler.com/who/cards/weddingring.html
+
+https://www.mythicspoiler.com/who/cards/billpotts.html
+
+https://www.mythicspoiler.com/who/cards/theeightdoctor.html
+
+https://www.mythicspoiler.com/who/cards/rassilonthewarpresident.html
+
+https://www.mythicspoiler.com/who/cards/danlewis.html
+
+https://www.mythicspoiler.com/who/cards/sallysparrow.html
+
+https://www.mythicspoiler.com/who/cards/ryansinclair.html
+
+https://www.mythicspoiler.com/who/cards/dalekdrone.html
+
+https://www.mythicspoiler.com/who/cards/marthajones.html
+
+https://www.mythicspoiler.com/who/cards/outoftime.html
+
+https://www.mythicspoiler.com/who/cards/nardoleresourcefulcyborg.html
+
+https://www.mythicspoiler.com/who/cards/cybermansquadron.html
+
+https://www.mythicspoiler.com/who/cards/thewargames.html
+
+https://www.mythicspoiler.com/who/cards/dannypink.html
+
+https://www.mythicspoiler.com/who/cards/reversethepolarity.html
+
+https://www.mythicspoiler.com/who/cards/karvanistaloyallupari.html
+
+https://www.mythicspoiler.com/who/cards/trialofatimelord.html
+
+https://www.mythicspoiler.com/who/cards/cityofdeath.html
+
+https://www.mythicspoiler.com/who/cards/thesoundofdrums.html
+
+https://www.mythicspoiler.com/who/cards/lastnighttogether.html
+
+https://www.mythicspoiler.com/who/cards/thenightofthedoctor.html
+
+https://www.mythicspoiler.com/who/cards/cursedmirror.html
+
+https://www.mythicspoiler.com/who/cards/carpetofflowers.html
+
+https://www.mythicspoiler.com/who/cards/deathinheaven.html
+
+https://www.mythicspoiler.com/who/cards/flamingtyrannosaurus.html
+
+https://www.mythicspoiler.com/who/cards/fleshduplicate.html
+
+https://www.mythicspoiler.com/who/cards/confessiondial.html
+
+https://www.mythicspoiler.com/who/cards/everybodylives.html
+
+https://www.mythicspoiler.com/who/cards/cybermanpatrol.html
+
+https://www.mythicspoiler.com/who/cards/fourknocks.html
+
+https://www.mythicspoiler.com/who/cards/riversongsdiary.html
+
+https://www.mythicspoiler.com/who/cards/sonicscrewdriver.html
+
+https://www.mythicspoiler.com/who/cards/cybermat.html
+
+https://www.mythicspoiler.com/who/cards/renegadesilent.html
+
+https://www.mythicspoiler.com/who/cards/greatintelligencesplan.html
+
+https://www.mythicspoiler.com/who/cards/snuffout.html
+
+
+
+
 
 
 
