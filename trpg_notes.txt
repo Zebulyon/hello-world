@@ -1447,19 +1447,120 @@ A remote village is revolting because of a hunger strike.
 Priest of Hunger, torment village, the ones trying to leave and bring food to the village get captured and tourtured. 
 - The priests have taken the role of the village doctor, and are divirting suspicions by "shareing" their rations, using their ability to not require as much food and water. 
 
- 
+
+
+-----------------------------------------------------------------------------
+- Oakhurst - NPC 
+
+
+
+
+-----------------------------------------------------------------------------
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+STR     8   |   16  |   13  |   4   |   14
+INT     4   |   13  |   9   |   15  |   18
+WIS     15  |   9   |   15  |   12  |   10
+DEX     7   |   8   |   15  |   8   |   10
+CON     9   |   7   |   8   |   9   |   8
+CHA     13  |   11  |   8   |   11  |   6
+LKS     12  |   10  |   8   |   11  |   13
+
+2 Fighters
+1 Mage 
+1 Ranger 
+1 Fighter/Thief
+
+
+Standard Array. 
+15  14  13  12  10  8  LKS-NaN-
+
+Fighters 
+14  10  12  13  15  8
+
+Barbarian 
+15  8   10  13  14  12
+
+Ranger 
+10  13  14  15  12  8
+
+Thief/Assassin/Fighter-Thief 
+12  13  14  15  8   10
+
+Rouge 
+8   13  12  14  10  15
+
+Mage/Wizard 
+8   15  13  14  12  10
+
+Mage-Fighter  
+12  15  13  14  12  8
+
+Mage-Thief 
+10  15  13  14  8   10
+
+Cleric
+12  8   15  13  10  14
+
+
+Weapon user Weapon Spec. 
+pc-lvl /5
+
+Skill levels 
+Obsv. or List.   : 
+    WIS * (1 + (pc-lvl/5)^)
+
+Sneak. or Hiding : 
+    DEX * (1 + (pc-lvl/5)^)
+
+Resist Per. or Lying :  
+    CHA * (1 + (pc-lvl/5)^)
+
+Arcane Lore 
+    INT * (1 + (pc-lvl/5)^)
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+Tiamat was a previous incarnation of "The Courts of Inequity"
+
+Non Evil-Clerics - have to destroy all symbolism of dragons
+
+The puzzle requires 
+Fire, Cold, Lightining, Acid, Poison 
+
+Belak has vials and scrolls for all damage type. 
+
+---
+
+The Knight was a lvl 5 PC 
+The son and daughter is lvl 3 PC 
+The Ranger was a cleric of The Patient Arrow lvl 3
+
+---
+
+The last night before they reach Oakhurst 6 Twig Blights will attack during the night. 
+
+---
+
+The Blacksmith can fix some weapons, he is able to sharpen bladed weapon, giving them +1 DMG for the rest of ARC-1 or until the roll a CRIT fail on ATK. 
+    Farming Tools 
+
+A proper nights rest and meal a the local inn. Gets them -1 to Initative until they go to sleep, as well as reduce all wounds by 2 days of rest. 
+
+The General store has a contract with a semstress that can repair the tent sheet. As well as a butcher with a smoker that could help preserve the bear meat. 
+    Torches/Candles 
+    Bags/Load bearing equipment 
+    3 potions from treasure table lvl +4 
+    5 pieces of Jewelry in differing Size and Prize 
 
 
 
 
 
 
-
-
-
-
-
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -1609,6 +1710,30 @@ https://www.mythicspoiler.com/who/cards/renegadesilent.html
 https://www.mythicspoiler.com/who/cards/greatintelligencesplan.html
 
 https://www.mythicspoiler.com/who/cards/snuffout.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
