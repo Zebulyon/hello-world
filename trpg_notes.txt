@@ -1768,6 +1768,44 @@ https://michaelkscott.com/dnd/locations-and-npcs/
 https://michaelkscott.com/dnd/locations-and-npcs/
 
 
+----------------------
+
+The Basic Door Trap 
+
+With worse DEF roll if they are not prepared. 
+DEF vs 1d20+10
+A spiked ball comes swinging downward in waist height. 
+A failed check means that they have been hit by the trap, 
+Resulting in 1d6p+6 damage 
+
+
+Basic Spike Trap - 10ft deep 
+FoD vs 1d20+(15-20)
+1d6p-1 + 2d4p 
+
+
+Caltrops 
+FoD vs 1d20+20 - Requires that they move at crawl spd 
+- Fail Take 1 Damage 
+ToP Check 
+- If any of the above checks fails the target, takes 1 point of damage and can not continue moving forward for each 1s for point they failed the ToP check. 
+
+
+Ball Bearings 
+FoD vs 1d20+10
+Failure means that they fall prone, roll for time to get up on their feet.
+
+
+Drop from of above
+If they have the means to take cover
+FoD vs 1d20+10
+Takes 1d6-1 damage 
+
+
+Goblin weaponry
+- Evrytime one recieves piercing or hacking they will have to make a vs Disease check. 
+- When removing goblin projectile, the check becomes a hard check to properly remove the projectile. Failure leaves small parts of the weapon in the wound causing potential future porblems. 
+
 
 
 
