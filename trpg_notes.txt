@@ -1,4 +1,7 @@
------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+************************************************************************************************************************************************
+    THE_PRISON_BREAK (TPB)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 One-shot - Prision Break 
 
@@ -217,50 +220,15 @@ The PCs are either caught before they escape the prison or manage to just make i
 
 https://dungeonsmaster.com/2009/06/skill-challenge-prison-break/
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+************************************************************************************************************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------
 
----
-Starsong
-Day XX of YY
-Blue clothes, No facial beard, Purple hat not plume. 
-Black hair, blue eyes white teeth. 
-Walked in to QQ, never left
+()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+################################################################################################################################################
+    ALCHEMY (ALC)
+()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
 
-Day XX of YY
-Purple clothes, A small mustach, black top hat. 
-Grey hair, green eyes. 
-walked in to QQ, then moved to QQ, never left. 
-
-Weirdbootle
-Gnome, dark grey hair, moves
-
-Hunter
-This fuckhead constantly scutters around the roof tops like the insect he is. 
-Allegedly he seem to frequently visit QQ. 
-
-Horn
-
-
-Yaefara
-
-
-The abomination uses stats similar to an Ooze. 
-By that I mean that it has a lot of health, tought not all that much DR, like the normal Zombie. 
-As well as if damaged enough by a cutting weapon it will start to split apart, each part being able to move by its self. 
-It is capable to grab Number of PC's - 2 at the same time. And is able to bite multiple victims at once. 
-Its bite is highly contaigouse with the zombie virus
-Requiring victims do performs saves against the virus after each instance of an attack that draws blood. 
-If it can successfully grab an victim and bite down. It will also be able to transfer rotgrubs into the victim. 
-
-The area will also contain som wandering skeletons and the lonely zombie. 
-As well as some crawling claws. 
-
-The Hlevtagnis area, contains a total of 1d20+10 Grunts. The area also contains a number of different varieties of simple traps. 
-Snare traps, simple spike traps, bear and fox traps, some odd more complicated arrow traps. 
-The area overall contains a lot of scrap and rubble covering the floors. Mostly there to hide the traps. 
-This area does not contain a lot of powerful items, instead this is were some slaves can be found on behalf of Hlevtagnis, some tortured adventures, random people from the streets. 
-Some fenced and smuggled goods. Very small amounts of it is in actual cash and most of it will require access to a fencer to handle properly. 
-
----
 Alchemist Fire Recipe
 https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemist%27s%20fire
 
@@ -690,78 +658,17 @@ Thunderstone
 * Causes deafness
 - Saltpeter, Silver
 
+()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+################################################################################################################################################
+    ALCHEMY (ALC)
+()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
 
----
+!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    ITEMS_AND_SPELLS
+!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!"!
 
-Elven chain mail 
-Cost : 3.5-5 * [Chain mail cost]
-Description :
-Instead of the larger rings usually composing chain mail. These are made of tiny rings, causing the mail to be more like a mesh. 
-This "mesh" has also been designed by studying biology to allow for as small of an restriction to the wielders movement as possible. 
-
----
-
-
-Allegedly there was an adventure group called Grayscale, there seem to be a connection between this group and my targets.
-Earliest found record of them was found in CAPITAL CITY. 
-
-Starsong
-Day XX of YY
-Blue clothes, No facial beard, Purple hat no plume. 
-Black hair, blue eyes white teeth. 
-Walked in to Dockward trades office, never left
- 
-Day XX of YY
-Blue clothes, No facial beard, Purple hat no plume. 
-Black hair, blue eyes. 
-Walked in to Blackshark Bar trades office, never left
-
-Day XX of YY
-Blue clothes, No facial beard, Purple hat no plume. 
-Black hair, blue eyes. 
-Walked in to Dockward trades office, never left
-
-Day XX of YY
-Red clothes, polisongs, Purple hat no plume. 
-Blond hair, brown eyes, missing right eye. 
-Walked in to Yawning Portal, never left
-
-Day XX of YY
-Purple clothes, A small mustach, black top hat. 
-Grey hair, green eyes. 
-walked in to Golden Goose, then moved to Store house, never left. 
-
- 
-
-Weirdbootle
-Gnome, dark grey hair, moves
-Head alchemist of the Black Snake
-
-Very rare for him to leave the office. 
-Moves around with guards
- 
-
-Hunter
-This fuckhead constantly scutters around the roof tops like the insect he is. 
-Allegedly he seem to frequently visit QQ. 
-
-Day XX of YY 
-I felt that someone was following me. Could have svorn that I heard some movements from the roofs. 
-Had to take actions to lose them from my tail. Probably part of his swarm. 
- 
-
-Horn
-
-Yaefara
-
-
-
-Heard that the Grayscale should consist of an Half-orc, Gnome, Human, Half-ling, Elf. Starsong I'm finnaly on your track 
-
----
-
-The goblins possess some items that they have found themselves as well as taken from other adventures. 
-
+***
 Cleric Scroll
 Favors of the Protectors
 
@@ -773,13 +680,14 @@ Casting Time:   12 s
 Area of Effect: 1 person or mammal
 Saving Throw:   None
 
-The favor of Tymora confers bonuses upon the recipient of +4 on the first saving throw 
+The Favor of Protectors confers bonuses upon the recipient of +4 on the first saving throw 
 made after the recipient is touched by the priest (even if the save occurs on the same round as the touch), 
 +3 on the recipient's next saving throw, +2 on the one after that, then +1 on the following saving throw.
 
 This spell can be added to the available spells of any cleric that is Good aligned
+***
 
-
+---
 Mage scroll 
 Whirling Blade
 
@@ -811,31 +719,11 @@ heavy (10 pounds or more) as to hamper or significantly slow arm movement.
 
 This magical weapon exists for the duration given or until the caster concentrates on casting another spell, whereupon it vanishes. 
 Wielding and actively using a weapon also disrupts the spell, canceling its effects prematurely.
+---
 
 
-Spellbook :
-
-A. Amplify Illumination 
-
-A. Permanent Mark
-
-J. Bar Portal
-
-1. Translate 
-
-2. Chilling Touch / Shocking Touch 
-
+---
 A dwarf sized ring mail [B:65 SP, S: 50SP]
-3 Quivers of Crossbow bolts. [Normal]
-Flail
-Warhammer        [B:2 SP: S 1 SP]
-2*Longswords     [B:20 SP: S:15 SP]
-Greatsword       [B:30 SP: S:22 SP]
-2* Medium Shield [B:30 SP: S:25 SP]
-
-50+1+2*15+22+2*25= 153 SP =  38.25 SP / Vardera
-
-In coinage : 7 SP 16 CP = 40 SP + 4 CP /Vardera 
 
 
 ---
@@ -856,401 +744,120 @@ Ex. 3->1 month = 1/3 => 1000 * 3 = 3000 SP
 
 ---
 
-Skullport
--
-Luften är tjock, unken och lätt fuktig. Påminner om att gå in i en grotta med en underjordisk sjö eller en möglig källare. 
-På allt trä som används för att sätta upp husen kan man see grön-grå aktigt slime mossa, denna mossa täcker även stora delar av vägarna och är väldigt hala som att gå på fallna och blöta löv. 
+*******
+The Dragon Egg 
+A seemingly teardrop shaped saphire like jewel 
 
-Inga blommar är synliga, de enda växtligheten som man kan see är denna mossa samt några enstaka svampar. 
+Any Lore checks leaves the investigator puzzled about its origins and purpose
 
----------------------------------------------------------
+But through experimentations one notices that it can absorb SP and when done so it will produce water. 
 
-Don and Hans are not real members of the Xhanatar Guild, they are simply somewhat low level thugs. 
-Something which Don finds himself in but Hans has greater aspirations. 
+Small Cost will produce one pitchers worth of perferctly pure and clear drinking water. That seemingly begins to drip from the Jewel. 
 
-They have no information regarding the location of a Xhanatar base of operations. 
+After recieving a certain amount of SP a new ability will be unlocked 
+The user can now shot out the water out to 20ft away but at the current moment is little more than a Squirt Gun.
 
-They can be convinced/talked into working with the PC's if they would so chose. Thus giving them some goons working for them. 
+After another threshold
+The user can now fire out water to the level of a strong garden hose, not dangerous so far.
 
-Information they do have access to:
+After another threshold
+The user can now fire out compressed burst of water, dealing unarmed damage (d4-2)+(d4-2) + 2 up to a range of 20ft 
 
-* An individual who calls himself the Lord of Whips has been buying up a lot of slaves recently, his insignia is that of an H but that is all they know. 
-They had some idea of getting into to the slave trade but has not yet been able to expand into it. 
-
-* For undermountain they have 2 pieces of information. 
-    1. During their excursions and visist to Undermountain they have noticed that some adventurers that has been down there for about 1-3 days have come back 
-    acting a bit stiff or maybee awkward would be the more appropriate word for it. 
-
-    2. They have managed to reach the second level of the dungeon complex and found some notes talking about researching some anti-mage weapon. 
-    It should be able to nullify or remove mages ability to control the weave.
+After another threshold
+Damage increased to 2d4+2 
 
 
-Should roll up and create a familiar for Stjärnsång and Hans.
-I'm thinking thar Stjärnsång har kunnat spenderat max pengera och tid på att framana sin familiar
-
-Hans är bland lower rangs för Economi, Mid för tid och Vortex. 
-
+After another threshold
+The water is now like a fire hose requireing the user to be able to withstand the pushback
+It deals a good amount of damage at a range capable of chanign target to attack multiple enemies at a time. 
 
 
+The Jewel is actually a dragon egg waiting to recieve enough SP before it is able to hatch, and will in turn empower it current holder to insentivce it continued useage.
+*******
 
+Shield of the Mountain Stance 
+* Base Shield gives DEF +6 DR +6
+New Shield when you have your back towards a wall the shield becomes a +9/+9
+New Shield when you have your back free the shield becomes +4/+4 
 
+Instanst Column  
+A heavy metal rod the sice of 20cm long with a diameter 0.5cm 
+There are X commands words for the different forms 
+- Base version - club 
+- Quarterstaff 
+- Column - The stick takes on the shape of a 5 ft wide 10 ft high iron pole. Weight is equivalent to size. 
 
+Shield Gauntlet. 
+A gauntelt that becomes an equipped Large Shield. 
+Weighs 3 times the amount of a normal Large Shield. 
+Using a specific handsign with the gauntlet hand, causes the gauntlet transform into a Large Shield after 4s. 
+Transforming back takes 2 s. 
+Drawbacks : Higher likelyhood for shield breaking.
+
+Living rope. 
+This rope looks quite similar to regular hemp rope, tough it has a slight green coloration. 
+Upon speaking the proper command word one is able to have the rope become animated, then using an Animal check the rope can be made to behave in the exact manner of the users choosing. 
+
+Random fluff for books 
+https://forums.giantitp.com/showthread.php?483064-What-s-on-the-Shelf-1001-Essays-Treatises-and-Books-on-Magic
 
 -------------------
-https://www.dmsguild.com/product/225548/
-------------------
-https://archive.org/details/dungeonmagazine?&sort=-week&page=3
-
-
-
-
 
 Rolling with Advantage equates that the Average is 2/3 of the die total. Meaning the Average for a d20 is 13.8
 Rolling with tripple advangtage a.k.a rolling three die is a 3/4, Meaning the average for a d20 is 15.4
 Rolling with quadrupple advantage a.k.a. 4/5. 
 
--------------------
+----------------------
 
+===========================================================================================================
+    Traps 
+===========================================================================================================
 
 
+The Basic Door Trap 
 
+With worse DEF roll if they are not prepared. 
+DEF vs 1d20+10
+A spiked ball comes swinging downward in waist height. 
+A failed check means that they have been hit by the trap, 
+Resulting in 1d6p+6 damage 
 
-The Grand Treasure Hunt 
 
-Setting 
+Basic Spike Trap - 10ft deep 
+FoD vs 1d20+(15-20)
+1d6p-1 + 2d4p 
 
-It is 100 years ago that the greate war waged by Kalamar ended, The country after overextending in the war was begining to be pushed back, but on the verge of defeat the king spooken in legend appeared wielding the sword of kings. 
-And through his heroics on the battlefield and insight in policitcal matters the war was able to end quite swiftly with Kalarmars border having been expanded quite greatly, swalowing Pekal amoung other countries. 
 
-After this age of strife followed whilst tense an age of peace under the true kings reign. 
-10 years after the war the Dwarfs that was enslaved by the Kalaramarian empire was released and laws was enacted that forbade discrimination against the other races on baseless grounds. 
-The dwarfs was also given backs some of their old lands. 
+Caltrops 
+FoD vs 1d20+20 - Requires that they move at crawl spd 
+- Fail Take 1 Damage 
+ToP Check 
+- If any of the above checks fails the target, takes 1 point of damage and can not continue moving forward for each 1s for point they failed the ToP check. 
 
-But the choosen kings is approaching the end of his life, having already lived for an unatrual long time for a human being currently 138 years old, and concerns are beginning to grow that there will be a war of succession among his children for who will take over his rule. 
 
---
+Ball Bearings 
+FoD vs 1d20+10
+Failure means that they fall prone, roll for time to get up on their feet.
 
-You however are adventures removed from the innerworkings of the royal court and all in all would likely stand to profit if a war of succession would erupt as that would mean that a lot more work would be availble. 
-Your groups is one with experience having aided in the protection of merchants and villages from the horrors of goblinoids, bandits and wildlife. 
 
-Tough your coffers are begining to wane, in the search of cheap living conditions and work you have moved yourself to be closer to the countries borders, specifically around the area of where some of the old dwarven cities were. 
-On your journey to find a job, you came across the village of Greenest, a small village with around 50 pop, the only notisable thing of the village is that it houses the tower of a State sanctioned Wizard. 
-The mayors daugther has fallen ill and so far they have found no cure, and being so far from a big city and they lack the funds and time to call for a high priest to come and save her. 
+Drop from of above
+If they have the means to take cover
+FoD vs 1d20+10
+Takes 1d6-1 damage 
 
-The village medicine womans belives the daughter to have less than a moons rotation left, and the mayor desprate for hope has asked you on a mission to go and investigate the validity of a rumor. 
-Allegedly there is a village somewhat close by where there is a fruit able to cure any illness, he knows little else and would normally dismiss this is as whimsical hersay but there is little left for him to bet on. 
 
-He has already spent most of what he has to cure her, but whatever left he can scrounge up without dooming the village he is willing to give you if you can get your hand on this fruit and return with it before his daugther dies. 
-The resident Wizard also propmises that he will owe each of you a favor, a useufl thing to have. In the event you want to gain an inn to the collage in the Capital, identify some items, look through his spellbook, or custom order some scrolls and potions. 
+Goblin weaponry
+- Evrytime one recieves piercing or hacking they will have to make a vs Disease check. 
+- When removing goblin projectile, the check becomes a hard check to properly remove the projectile. Failure leaves small parts of the weapon in the wound causing potential future porblems. 
 
-Currently promised rewards - 45 sp per person i.e. a month stay at a private room at a regular inn, including cost for food and drink. 
+===========================================================================================================
 
-Outside of the favor owed by the wizard, the party will be able to if they want to raise the payment, 
-to aquire a scroll or a potion
-or borrow a wagon and hierling that can drive it. 
+===========================================================================================================
 
-The wagon and hierling will be included up front if there is a Priest belonging to a Lawful diety or NG diety in the party. 
 
-
-It will take 
-1 week by foot 
-5 days by wagon 
-4 days by horse 
-Travel from Greenset to the Oakhurst 
-
----------------------
-
-The opening scene. 
-
-We find the party having set up camp after 2 days of travels towards Oakhurst. 
-You are currenlty waiting for the campfire to boil up some water and are playing some dice, and are about to start a new round. 
-Roll 1d(Number of Players) to see who is currently winning. 
-
-:
-:
-:
-:
-
-Start night Encounter against Twigblight 
-
-:
-:
-:
-:
-
-Then the next day
-Ask them to make a roll to fake a Random Encounter Table:
----- Result is pre-determined
-Ask for a (Easy) Listening or (Normal) Perception Check. 
-The party will start with hearing the sounds of a scuffle. Which leads them to 
-
-A group of bandits is currently attacking some travellers. 
-
-How do you want to handle the situation. 
-If you succeed at one of the skill checks it will allow you to get the jump on them. 
-
-Otherwise you can circumvent the situation. 
-Wait for the situation to pass 
-Or do something else. 
-
-If they defeat the bandits and are a follower to a Religion that promotes such an act then they will either get a minor boon or honor reward. 
-If they manage to rescue the travellers they will get additional honor reward and monetary reward. 
-
-*************************
-Random encounter table
-Nothing 
-
-1. 
-Night Encounter 
-    Twigblights
-
-2. 
-Night Encounter 
-    Twigblight infected wildlife currently going crazy from the infection. 
-
-3. 
-Night Encounter 
-    You notices that a bear is shuffeling around the camp. How do they want to deal with it. 
-
-4. 
-You notices that you accidently placed your camp or lunch break on top of an ant nest. No mayor encounter but as it is fire ants it going to cause some annoyance. 
-
-5. 
-A Terrible rain storm is raging for 8h, it will either cause your travel time to be increased or induce dangers during their travel. 
-    If during the night might make you unable to sleep until you find cover. 
-
-6. 
-A wounded traveller that could use aid to reach civiliation so that they can get proper treatment. 
-    The traveller is an avatar for the Traveller. If PC help them and they are of proper alignment, they will get access to safe houses. 
-
-7. 
-A wounded traveller that could use aid to reach civiliation so that they can get proper treatment.
-    The traveller is a deception, they are a servant to either Nightmare or Hunger. 
-
-8. 
-Roll 1d(Number of Player), The corresponding player see something glimmer by the side of the road. If investigated it is jewlery 
-    * The jewlery belongs to a previous traveller they currently reside in Oakhurst, if returned they will be rewarded greatly. Can otherwise be sold for an ok amount
-    * The jewlery is placed by some tricky fae. If one attempts to pick it up, have them roll vs CHARM (WIS) vs d20+(Avg. +8), Failure means they get high as a kite for 1d6h. And the jewlery becomes becomes a lump of Rabbit Droppings. 
-
-9.
-You find the remains of a carriage that was attacked around 3 days ago. Most of the valuble has already been taken. But there are still some 1d4 days rations, some money. 
-If they go about and give a burial of the dead rider they will get bonus Honor, a simple investigation (Religion check avg) will indicate the his religous belief. And if the bury is made according to their religon they will recieve a minor blessing until the end of the arc dependent on the cermony rite they used. 
-
-10.
-Bandit ATTACKs, they have setup an ambush. The PC can see them before doing the attack if they succeed on Obsv. or List. check. 
-
-11-20 Nothing of Note. 
- 
-
-*. 
-Roll 1d(Number of Player), The corresponding player see something glimmer by the side of the road. If investigated it is jewlery 
-    * The jewlery belongs to a previous traveller they currently reside in Oakhurst, if returned they will be rewarded greatly. Can otherwise be sold for an ok amount
-    * The jewlery is placed by some tricky fae. If one attempts to pick it up, have them roll vs CHARM (WIS) vs d20+(Avg. +8), Failure means they get high as a kite for 1d6h. And the jewlery becomes becomes a lump of Rabbit Droppings. 
-    * The jewlery is placed by some tricky fae. If one attempts to pick it up, have them roll vs CHARM (WIS) vs d20+(Avg. +8), Failure means they really want to put on the jewelry. That is all. You just want to wear it, it is a highly covetead piece of jewelry, if the wearer can be convinced to part with it it gives its seller a big bonus when selling it. Just be warned, where there is something valuble there is jealuosly. 
-
-
-*.
-You find the remains of a carriage that was attacked around 3 days ago. Most of the valuble has already been taken. But there are still some 1d4 days rations, some money. 
-If they go about and give a burial of the dead rider they will get bonus Honor, a simple investigation (Religion check avg) will indicate the his religous belief. And if the bury is made according to their religon they will recieve a minor blessing until the end of the arc dependent on the cermony rite they used. 
-
-
-*.
-A rope bridge has collapsed 
-A river cut through the road.
-The width of the river is about 25ft = 7.6m.
-How do you want to get past to the other side. 
-Travell along the river to see if you find another point to pass over. 
-Repair the rope bridge, not too complicated but will require something like rope. 
-Or get over by some other means
-If they properly repair the bridge they will get a monetary reward when the arrive in Oakhurst. 
-
-
-*.
-A group of bandits is currently attacking some travellers. 
-A successfull normal Listening or Hard Perception check allows you to notice the situation before you arrive. 
-How do you want to handle the situation. 
-If you succeed at one of the skill checks it will allow you to get the jump on them. 
-Otherwise you can circumvent the situation. 
-Wait for the situation to pass 
-Or do something else. 
-
-If they defeat the bandits and are a follower to a Religion that promotes such an act then they will either get a minor boon or honor reward. 
-If they manage to rescue the traveller they will get additional honor reward and monetary reward. 
-
-
-*.
-You find the corpse of a dead boar. 
-A medicine, monster lore, scrutiny or other applicable skill check reveals that. 
-It has signs of death because of blood loss. One of the clues being a very limited amount of blood has congeled around the corpse. 
-Around its neck are several small stab wounds. It also has clear signs of sever scraping wounds around its neck are. 
-Almost as if it was drying to tear something of itself by scraping against trees and stone. 
-
-
-*.
-Information about the missing adv. party in Oakhurst. 
-
-
-*.
-You here the sound of a man in shouting for help somewhat dejectedly. 
-If investigated the party find a Satyr that has gotten himself trapped in a hunting snare, meant for midsize game. 
-His face is red, with a slightly groggy facial expression, making you think he has been stuck there for a while. 
-
-If rescued he can give them some attempt for a subtle clue about the EVIL DRUID. How the druid was a guardian of this forest a couple of years ago, but after a incident in which civlized individual ended up killing some of his loved one he left went to talk with a hag, then returing stating that this was his final goodbye and afterwhich he never returned. 
-
-The Satyr can then either give boon, items or a favor.
-Satyrs favor, whilst in the forest they can gain access to a limited Divine Interventation. 
-As long as they have not royally angered an inhabitant of the forest, the favor will allow them to convince any of them to help you out. 
-Be it instructions on where to go, Help getting somewhere, Healing, Limited Combat Aid, getting out of a sticky situation. 
-
-
-*.
-Some goblins are in the process of harrasing a young treant. 
-The goblins are scared away quite easily, and the young treant thanks its saviors by giving the group one of his branches.
-The branch is either in the form of a Quarterstaff or a Clubb, adorned with 5 leaves growing from the top of it.  
-It is a high quality Quarterstaff, with the ability of if tended to properly the staff can grow more powerful with time. 
-At its base the staff is a +1 Quarterstaff or a +1 Club. 
-If however someone with the appropriate knowledge or skill, aggriculture, botany, monster lore etc. Makes sure to take tend to the staff/club in the correct way, giving it nutrients, water, and sunlight the staff will with time grow more powerful. Every month a check will be made, if it succeed the staff/club will become more powerful in a manner befitting the one that uses it, if it fails one of the leaves will fall off, if all leaves fall the staff will stop evolving. 
-
-
-*.
-When they are near Oakhurst they might see signs of where some twigblights have uprooted themselves. 
-
-
-*
-Goblins has setup an ambush with some traps. There are <= goblins than party_size * 2. 
-Their weapons are low quality, and the danger mostly lie in their traps. A disguised pifall, nets, and some logs ready to roll down. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-=====================================================================
-Boss fight
-
-The Druid, will use plant based "Gas bomb" to disrupt the party. 
-
-Meanwhile the small army of Twigblights will be bomb-rush the party. 
-
-His giant toad will halso be in a hidden position starting with harrasing the party by using its tounge to wretch away items from the party, weapons and spell components. 
-
-The two TwigZombies will serve as the heavy hitters in this assualt. 
-* TwigZombies. 
-    Not too much health as the people they represent are still alive but barely, they do however pose some good DR, slightly better than standard zombies. 
-    They are able to wield weapons and cast spells as they are effectivly under a powerful charm spell.
-    Hacking weapons will however be able to circumvent a lot of the DR, but kill the infected in the process.  
-    Fire however is highly effective and more than half their HP is drained because of fire damage the infection will cease. 
-
-
-
-The Druid.
-
-Grieving the loss of his lover a Dryad. 
-He found some humans, suffering symptoms of being poisoned. In his caring heart he reached out a helping hand and nurtured the individual back to health. 
-At a later date the individuals returned saying that his assistance was needed. They said some nearby villagers had eaten something from the forest and turned sickly. And as such he set out to help them.
-
-But it was all a ploy, he was lured into an ambush and nearly killed, but he was able to stave off his pursures. 
-On top of that when he returned he saw how the clearing he called home had been ravaged, with his lover a dryad had been killed when the attackers had attempted to drain her of her sap. 
-* The sap of a dryad posses anti-aging effects, not to the extent of a fountain of youth but it does slow down the aging of mortals.
-
-??
-In the Druids lair there is a hidden room. In there is a opening in the roof giving sunlight to a sapling, transplanted from the Dryad.
-There also is his personal diary, telling his life story, but it also works as a tome providing bonus to aggriculture and botany. 
-??
-
-
-Have there be fully consumed Twigzombies on the second level. 
-Describe how thw twigblights has burrowed into their targets, acting as a parasite devouring their victims from the inside out. 
-Make it clear how there are several station in which victims are being drained of their blood. 
-And how that blood is being used to nurture and grow more twigblights. 
-
-Describe dissection station. 
-Victims screaming in pain as the blight is growing from their insideout. 
-
-*************************
-
-When they arrive in Oakhurst. 
-
-They can gather rumors and information regadring the fruits and the dangers ahead. 
-
-They can learn of the sidequest in regards to retrieving the sigil ring. If they accept the misssion they migh be "sponsord" with some of their needed resources. 
-
-They can buy/replenish the equipment they might need to take on the dungeon. 
-
-In the town there are some criminals looking to get their hands on the fruits, they will setup an ambush for the PC's when they leave the dungeon. 
-
-+++++++++++++++++++++++++++
-
-Hopefully they are able to clear the dungeon and get their hands on the fruit. 
-Survive the ambush
-Complete the sidequest
-
-Leave the dungeon
-Return to Greenest
-Cure the girl
-
-They should at bare minimum ding up a level. 
-
-Afterwards if they complete the quest, they will be celebrated as heros. 
-They will have time to level up, nurse their wounds. 
-
-Afterwards they will be visited by the DROW looking for workers. 
-
-+++++++++++++++++++++++++++
-
-
-
-
-
---
-During the night when most of the party has fallen asleep, a twig blight for each sleeping party member with creep up on the party looking to attack one of the sleeping PC's. 
-The will try to reach the targets neck (a remnant of their vampire instincts), where upon they will strike looking to pierce it with their twig like appendages.
-
-Any damage it deals leave some splinters in the targets wound. 
-A (Average) First aid check is needed to remove it. 
-A non crit-failed check deals the recipient 1 damage ignore DR as the splinter is removed forcefully
-A crit-fail, causes some part of the splinter to remain in the wound and can lead to future complications. 
-
-
-****
-HP  : 4
-DEF : +5
-ATK : +3
-DMG : 1d4+1 Piercing damage
-
-DR  : (Look at Barksin)
-- Weak to Hacking and Fire damage, to the point of instant death if damaged by such a source
-- Small DR against Crushing 
-- DR against Piercing 
-
-
-Mosquito vision, able to find and discern heat sources, looking to find juicy blood bags. 
-
-Skills 
-Perception : 40
-Sneaking 30 (+20 in natural terrian) 
-Hiding whilst in hiding it is indistinguishable from a dead shrub. 
-
-
-Intelligence is very low, acting mostly on instinct. 
-But it instinct does tell it to look to attack sleeping foes, which i is able to determine from the heat and oxygen given of from its target. 
-Otherwise it fights until death, it can be turned as if an undead Will factor 2.
-
-If its corpse is investigated a check will reveal that in its head there is what looks like a fang like human tooth. 
-****
-
-----
-
+( |Lifetime Cost||Lifetime Cost||Lifetime Cost||Lifetime Cost|
 
 ****************************************
-
 
 Does not include cost of food and drinks 
 ----
@@ -1331,79 +938,281 @@ We base living expenses on the Common Room.
 Which means that each Adventurer needs to earn about 18 sp a month 
 Reduce cost by 25% if the are far from a large city => 15 sp a month 
 
-*****
-Magic Item 
 
-The Dragon Egg 
-A seemingly teardrop shaped saphire like jewel 
-
-Any Lore checks leaves the investigator puzzled about its origins and purpose
-
-But through experimentations one notices that it can absorb SP and when done so it will produce water. 
-
-Small Cost will produce one pitchers worth of perferctly pure and clear drinking water. That seemingly begins to drip from the Jewel. 
-
-After recieving a certain amount of SP a new ability will be unlocked 
-The user can now shot out the water out to 20ft away but at the current moment is little more than a Squirt Gun.
-
-After another threshold
-The user can now fire out water to the level of a strong garden hose, not dangerous so far.
-
-After another threshold
-The user can now fire out compressed burst of water, dealing unarmed damage (d4-2)+(d4-2) + 2 up to a range of 20ft 
-
-After another threshold
-Damage increased to 2d4+2 
-
-
-After another threshold
-The water is now like a fire hose requireing the user to be able to withstand the pushback
-It deals a good amount of damage at a range capable of chanign target to attack multiple enemies at a time. 
-
-
-The Jewel is actually a dragon egg waiting to recieve enough SP before it is able to hatch, and will in turn empower it current holder to insentivce it continued useage.
-*******
-
-
-https://i.imgflip.com/61m73w.jpg
+|Lifetime Cost||Lifetime Cost||Lifetime Cost||Lifetime Cost|    )
 
 
 
-
-Random fluff for books 
-https://forums.giantitp.com/showthread.php?483064-What-s-on-the-Shelf-1001-Essays-Treatises-and-Books-on-Magic
-
-
-Magic Items - 
-Shield of the Mountain Stance 
-* Base Shield gives DEF +6 DR +6
-New Shield when you have your back towards a wall the shield becomes a +9/+9
-New Shield when you have your back free the shield becomes +4/+4 
-
-Instanst Column  
-A heavy metal rod the sice of 20cm long with a diameter 0.5cm 
-There are X commands words for the different forms 
-- Base version - club 
-- Quarterstaff 
-- Column - The stick takes on the shape of a 5 ft wide 10 ft high iron pole. Weight is equivalent to size. 
-
-Shield Gauntlet. 
-A gauntelt that becomes an equipped Large Shield. 
-Weighs 3 times the amount of a normal Large Shield. 
-Using a specific handsign with the gauntlet hand, causes the gauntlet transform into a Large Shield after 4s. 
-Transforming back takes 2 s. 
-Drawbacks : Higher likelyhood for shield breaking.
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The Grand Treasure Hunt 
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
 
 
 
+Setting 
 
-Magical - Ammunitions
+It is 100 years ago that the greate war waged by Kalamar ended, The country after overextending in the war was begining to be pushed back, but on the verge of defeat the king spooken in legend appeared wielding the sword of kings. 
+And through his heroics on the battlefield and insight in policitcal matters the war was able to end quite swiftly with Kalarmars border having been expanded quite greatly, swalowing Pekal amoung other countries. 
 
-Living rope. 
-This rope looks quite similar to regular hemp rope, tough it has a slight green coloration. 
-Upon speaking the proper command word one is able to have the rope become animated, then using an Animal check the rope can be made to behave in the exact manner of the users choosing. 
-------------------
+After this age of strife followed whilst tense an age of peace under the true kings reign. 
+10 years after the war the Dwarfs that was enslaved by the Kalaramarian empire was released and laws was enacted that forbade discrimination against the other races on baseless grounds. 
+The dwarfs was also given backs some of their old lands. 
 
+But the choosen kings is approaching the end of his life, having already lived for an unatrual long time for a human being currently 138 years old, and concerns are beginning to grow that there will be a war of succession among his children for who will take over his rule. 
+
+---------------------
++++++++++++++++++++++++++++
+
+Overview of The Twilight Citadele ARC_1
+Hopefully they are able to clear the dungeon and get their hands on the fruit. 
+Survive the ambush
+Complete the sidequest
+
+Leave the dungeon
+Return to Greenest
+Cure the girl
+
+They should at bare minimum ding up a level. 
+
+Afterwards if they complete the quest, they will be celebrated as heros. 
+They will have time to level up, nurse their wounds. 
+
++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Oakhurst 
+
+-- Mayor (Landvogt (Old German for Land Ruler/Owner)-- 
+
+Vurnor Leng
+Male (Human) 
+Late 60s 
+Six ft, with Silvery Grey hair and Cold Grey Eyes
+Recently a widower 
+Tough initally cold and stren, he actually is a warm and kind soul. 
+He goversn his village fairly, tough he does not have a lot of tolerance to poor behaviour 
+
+Lives and Work in the Village Hall. 
+The building houses a common room and a office in which he can meet pepole. 
+The remainder of the house is his private quarters. 
+
+-- Constable (Head of the town guard)--
+
+Felosial  
+Female (Half-elf (Human reared))
+Mid 50s, (30s for a normal human) 
+Piercing Hazel eyes, Scar above the cheekbone to edge of eyebrow to hairline where it meets a streak of white in her hair.
+The hair is put up into a woven short ponytail, goes just below the neck area. 
+Protective, Bit of a hardass, but fair
+
+Commands a force of :
+16 Guards 
+4  Scouts 
+A groups consist of 3 Guards and 1 Scout. 
+4 groups are constantly moving along the land to collect taxes but also make sure the village is somewhat safe. 
+Remaining 4 Guards stay the village center. 
+
+-- Priest and Healer --
+
+Dem 'Corkie' Neckle 
+Female (Half-ling)
+Priest of (Church of life's fire) - lvl 4 - Sub par stats
+150s years old (30s for human) 
+
+Ginger curly red hair, freckels, a warm smile with some yellowed teeths. 
+
+A mother of many both blood releated and adopted. Tough she cares for all greatly. 
+Currently there are 8 kids living with her, with differing ages from babies to late teenagers, those able bodied help with the farm and cermonies. 
+
+The fathers and husbands are a complicated answer, Corkie is a promiscous character that care little for marrige. 
+Some of her partners stay on the farm for a while others are just a one night stand. 
+
+She knows and is a friend with Erky Timbers (Currently captive by the goblins). 
+--
+Gnomes love to trick others, especially big folk.
+These tricks frequently include playing pranks or practical jokes, often physically painful for the recipient
+
+They also excel at woodworking,
+delighting in building toys, devices, tools and contraptions entirely out of wood. Gnomes also enjoy baking,
+especially cookies and desserts. 
+--
+I would think there might be some prepared chairs, which she borrows out to those able to take it, that collpase toghter loudly upon being used. 
+Or that she has trained her Chickens to go into the guest area in the morning to wake them up. 
+
+
+-- Merchant and Quest Giver ---
+
+Kerowyn Herclere 
+Femal (Human) 
+Noble 
+Mid 50s
+Grey hair tied back neatly.	
+She is composed but has clear signs of being worried over something. 
+
+Her store is the main trading center of the village. 
+The Herclere family is the ones responsible for counting and calculating the taxes. 
+They are also the ones responsible for setting up and handeling contract regarding the trade routes. 
+
+Hon är orolig då hennes barn, Talgen en Squire och Sharwyn en Mage, hade hört talas om den växande oron i området då något håller på att anfalla gårdsdjuren om kvällarna. 
+De två misstänkte att de Goblins som är aktiva i området och säljer frukterna borde vara inblandade. Så de anlitade 2 kompanjoner. 
+En Human ranger vid namn Karakas, samt en knight vid namn Sir Braford. 
+Braford och Talgen är borde inskrivna i service till Lady Sophey Wulfhild, Den nuvarande ledaren av Segeleta. 
+
+De begav sig mot Die Zitadelle in Ewiger Nacht, or the sunless citadel. 
+
+Men de har varit borta i ca 1 vecka nu och ingen har hört något ifrån dem. 
+
+Kerowyn erbjuder er ett uppdrag. Antingen så :
+
+* I värsta fall om Talgen och Sharwyn är döda, så ber hon er att i alla fall ta tillbaka Signet ringarna som de båda bär. Med familjens symbol. 
+* Men allra helst om de går att ta tillbaka de båda vid liv. 
+
+Om ni gör detta så säger hon att ni har full rättighet till vad ni än hittar inni i ruinen oavsett vem det tillhörde. 
+Men också för ringarna så får ni 
+10 GP för vardera ring 
+20 GP för per syskon som ni kan föra tillbaka vid liv. 
+
+-- Blacksmith --
+
+Rurik Letgehr (DEAD)
+Male (Dwarf)
+200 years old (50s for a human) 
+Man kan see tecken på hur hurlinjen börjar avta och att han verkar vara i processen att bli skallig. 
+Det kvarvarande håret samt skägget är brunt i vikinga flätor, med några enstaka fläckar av bränt hår. 
+Artig men försäljare. 
+
+
+-- Bar & Innkeeper -- 
+Ol'Boar Inn. 
+
+Garron (DEAD)
+Male (Human)
+Mid 50s 
+En stor rödaktig näsa, som en sån man kan få frå¨n att dricka mycket alcohol. 
+Överviktigt, med mutton chops. 
+Vänlig, och intresserad att få höra historier från genom resande. 
+
+New owner is his wife 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Give some level of control of the bad guys to other real life people.
+
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
+
+
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Ideas for future Scenarios (IDFS)
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+MONSTER 
+
+The abomination uses stats similar to an Ooze. 
+By that I mean that it has a lot of health, tought not all that much DR, like the normal Zombie. 
+As well as if damaged enough by a cutting weapon it will start to split apart, each part being able to move by its self. 
+It is capable to grab Number of PC's - 2 at the same time. And is able to bite multiple victims at once. 
+Its bite is highly contaigouse with the zombie virus
+Requiring victims do performs saves against the virus after each instance of an attack that draws blood. 
+If it can successfully grab an victim and bite down. It will also be able to transfer rotgrubs into the victim. 
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+MONSTER 
+
+HP  : 4
+DEF : +5
+ATK : +3
+DMG : 1d4+1 Piercing damage
+
+DR  : (Look at Barksin)
+- Weak to Hacking and Fire damage, to the point of instant death if damaged by such a source
+- Small DR against Crushing 
+- DR against Piercing 
+
+
+Mosquito vision, able to find and discern heat sources, looking to find juicy blood bags. 
+
+Skills 
+Perception : 40
+Sneaking 30 (+20 in natural terrian) 
+Hiding whilst in hiding it is indistinguishable from a dead shrub. 
+
+
+Intelligence is very low, acting mostly on instinct. 
+But it instinct does tell it to look to attack sleeping foes, which i is able to determine from the heat and oxygen given of from its target. 
+Otherwise it fights until death, it can be turned as if an undead Will factor 2.
+
+If its corpse is investigated a check will reveal that in its head there is what looks like a fang like human tooth. 
+
+Any damage it deals leave some splinters in the targets wound. 
+A (Average) First aid check is needed to remove it. 
+A non crit-failed check deals the recipient 1 damage ignore DR as the splinter is removed forcefully
+A crit-fail, causes some part of the splinter to remain in the wound and can lead to future complications. 
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+The Hlevtagnis area, contains a total of 1d20+10 Grunts. The area also contains a number of different varieties of simple traps. 
+Snare traps, simple spike traps, bear and fox traps, some odd more complicated arrow traps. 
+The area overall contains a lot of scrap and rubble covering the floors. Mostly there to hide the traps. 
+This area does not contain a lot of powerful items, instead this is were some slaves can be found on behalf of Hlevtagnis, some tortured adventures, random people from the streets. 
+Some fenced and smuggled goods. Very small amounts of it is in actual cash and most of it will require access to a fencer to handle properly. 
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+Skullport
+
+Luften är tjock, unken och lätt fuktig. Påminner om att gå in i en grotta med en underjordisk sjö eller en möglig källare. 
+På allt trä som används för att sätta upp husen kan man see grön-grå aktigt slime mossa, denna mossa täcker även stora delar av vägarna och är väldigt hala som att gå på fallna och blöta löv. 
+
+Inga blommar är synliga, de enda växtligheten som man kan see är denna mossa samt några enstaka svampar. 
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+Don and Hans are not real members of the Xhanatar Guild, they are simply somewhat low level thugs. 
+Something which Don finds himself in but Hans has greater aspirations. 
+
+They have no information regarding the location of a Xhanatar base of operations. 
+
+They can be convinced/talked into working with the PC's if they would so chose. Thus giving them some goons working for them. 
+
+Information they do have access to:
+
+* An individual who calls himself the Lord of Whips has been buying up a lot of slaves recently, his insignia is that of an H but that is all they know. 
+They had some idea of getting into to the slave trade but has not yet been able to expand into it. 
+
+* For undermountain they have 2 pieces of information. 
+    1. During their excursions and visist to Undermountain they have noticed that some adventurers that has been down there for about 1-3 days have come back 
+    acting a bit stiff or maybee awkward would be the more appropriate word for it. 
+
+    2. They have managed to reach the second level of the dungeon complex and found some notes talking about researching some anti-mage weapon. 
+    It should be able to nullify or remove mages ability to control the weave.
+
+
+Should roll up and create a familiar for Stjärnsång and Hans.
+I'm thinking thar Stjärnsång har kunnat spenderat max pengera och tid på att framana sin familiar
+
+Hans är bland lower rangs för Economi, Mid för tid och Vortex. 
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+In the town there are some criminals looking to get their hands on the fruits, they will setup an ambush for the PC's when they leave the dungeon. 
+
+If they defeat the bandits and are a follower to a Religion that promotes such an act then they will either get a minor boon or honor reward. 
+If they manage to rescue the travellers they will get additional honor reward and monetary reward. 
+
+Afterwards they will be visited by the DROW looking for workers.
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
+
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
 DROW sets up so that the party will be attacked during their travels to induce some level of trust, as they will share some of their healing potions, and help in combat. 
 The reason she is on this quest is that she hopes that if she is able to release Lolth from her prison that she will be rewarded greatly and re-instationed. 
 
@@ -1414,21 +1223,11 @@ But there are small factions that belive this current arrangement to be wrong an
 
 The Head of loth was effictly turned into a relic of its own and sealed in marble like stone. This statuet was then placed in a secure vault among the high elves for hundreds of years until the GROUP broke inn and stole whatever looked cool. 
 The DROW belonged to one of the congregations beliving in Loths right to rule the drow and the world, disillusioned by the Drow Nobles that sit on their laurels not putting any real effort into restoring Loth. The group was however discovered and all but the DROW was killed it managing to flee to the surface. There it spent years tracking down any knowledge about the statuet and was able to come to the conclusion that it must be stored in one of the Treasure Hordes of the GROUP. 
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
 
 
-
-A Lawful characther
-    I Belive It is wrong to comprise my principle just because they are temporarly inconvinient. 
-
-Lawful vs Evil ex. 
-https://www.youtube.com/watch?v=GKMqxDkc0gY&list=TLPQMjEwODIwMjN9cgyZ8hyMHg&index=2
-
-Give some level of control of the bad guys to other real life people. 
-
-
-
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
 Priest of Predictions could be nice bad guys.
-
 
 Random Encounter 
 
@@ -1440,22 +1239,13 @@ Travellers going by a certain route are getting kidnapped.
     * Priest of Disease     : where they are turtored for the sake of their god
     * Some feyfolk,         : a prank gone to far. 
 
-
 A remote village is revolting because of a hunger strike. 
 - The reasons are that some priest of hunger were/are there and in the processes of destroying their food supply. 
 
 Priest of Hunger, torment village, the ones trying to leave and bring food to the village get captured and tourtured. 
 - The priests have taken the role of the village doctor, and are divirting suspicions by "shareing" their rations, using their ability to not require as much food and water. 
+-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|
 
-
-
------------------------------------------------------------------------------
-- Oakhurst - NPC 
-
-
-
-
------------------------------------------------------------------------------
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
@@ -1523,47 +1313,19 @@ Arcane Lore
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+
+
 Tiamat was a previous incarnation of "The Courts of Inequity"
 
 Non Evil-Clerics - have to destroy all symbolism of dragons
 
-The puzzle requires 
-Fire, Cold, Lightining, Acid, Poison 
-
-Belak has vials and scrolls for all damage type. 
-
----
-
-The Knight was a lvl 5 PC 
-The son and daughter is lvl 3 PC 
-The Ranger was a cleric of The Patient Arrow lvl 3
-
----
-
-The last night before they reach Oakhurst 6 Twig Blights will attack during the night. 
-
----
-
 The Blacksmith can fix some weapons, he is able to sharpen bladed weapon, giving them +1 DMG for the rest of ARC-1 or until the roll a CRIT fail on ATK. 
-    Farming Tools 
 
 A proper nights rest and meal a the local inn. Gets them -1 to Initative until they go to sleep, as well as reduce all wounds by 2 days of rest. 
-
-The General store has a contract with a semstress that can repair the tent sheet. As well as a butcher with a smoker that could help preserve the bear meat. 
-    Torches/Candles 
-    Bags/Load bearing equipment 
-    3 potions from treasure table lvl +4 
-    5 pieces of Jewelry in differing Size and Prize 
-
-
-Om Partyt checkar in på tavern för natten, så kommer Landvogt Leng att kontakta dem under morgonen nästa dag.
-Han kommer att ha med Felosial, samt en Guardsman.  
-Där kommer de att få en mindre belöning för att de räddade några av byborna från banditerna. 20 silver vardera.
-Landvogt Leng samt Felosial kommer att vara väldigt bemötande och respekterande för Grimus. 
-Leng erbjuder att stå för deras kostnad av vistelsen vid Tavern, samt vara lite av en kiss ass för Grimus. Leng kommmer vara lite snobbig mot Selvon
-Felosial är respekterande för Grimus och kommer fråga om han har tid att komma förbi och träna lite med vakterna. 
-
-Corkie är bemötande till alla, men mest med Selvon, Dagg och Tien. 
 
 Leng will send a letter of thanks towards the Valiant Ones 
 If they fullfill Kerowyns side quest she will also send a letter to the Valiant Ones.
@@ -1572,142 +1334,47 @@ If they fullfill Kerowyns side quest she will also send a letter to the Valiant 
 
 
 
-Glean Info Check reveal
 
-* No one knows for sure what The Sunless Citadel once was, but legends hint that it served as a retreat of a long lost cult. 
 
-* The Old Road skirts thhe Ashen Plain, a lifeless area. 
-    - A History check reveals the damage either to war damage or the truth that it was a dragon that caused it 
 
-* Cattle herders don't graze their stock too far afield these days. They're frightened by stories of monsters that maraud by night. From time to time cattle, has dissapeard during the night and later found dead, with dozens of needle-like wounds. No one has seen the creatures that cause the damage, nor do they leave a trail. 
 
-* The missing adventurers include Talgen and Sharwyn Hucrele, a knight by the name Sir Braford and a cleric of the patient arrow Karakas. Sir braford was not a local and had a magical longsword. 
 
-* It is the goblins that come and sell the fruits, they sell one a couple of days after midsummer and one a couple of days after midwinter. The winter one is white and cold as snow and is a powerful poison. The summer one is red as a rose and warm as setting summer sun, and it is this one that work as a Panacea. 
-    -  They ask for 50 SP for each fruit.
 
-* Villagers and Guards men have tried to track the goblins to find out where they get the fruits from. The trail leads back to The Sunless Citadel, a dangerous ruin that they have not dared to follow them into. 
 
-* They have also tried to plant the pit of the fruits, to produce their own. But after a couple of days all that they are left with is a hole in the ground. It must be the goblins that come by and make sure that their leverage is not lost. 
 
-* The owner of the Ol'Boar Inn, remembers that before the fruits began to be produced around 10 years ago a traveller came by asking question about The Sunless Citadel, A priest of The Great Tree. 
 
 
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Oakhurst 
 
--- Mayor (Landvogt (Old German for Land Ruler/Owner)-- 
 
-Vurnor Leng
-Male (Human) 
-Late 60s 
-Six ft, with Silvery Grey hair and Cold Grey Eyes
-Recently a widower 
-Tough initally cold and stren, he actually is a warm and kind soul. 
-He goversn his village fairly, tough he does not have a lot of tolerance to poor behaviour 
 
-Lives and Work in the Village Hall. 
-The building houses a common room and a office in which he can meet pepole. 
-The remainder of the house is his private quarters. 
 
--- Constable (Head of the town guard)--
 
-Felosial  
-Female (Half-elf (Human reared))
-Mid 50s, (30s for a normal human) 
-Piercing Hazel eyes, Scar above the cheekbone to edge of eyebrow to hairline where it meets a streak of white in her hair.
-The hair is put up into a woven short ponytail, goes just below the neck area. 
-Protective, Bit of a hardass, but fair
 
-Commands a force of :
-16 Guards 
-4  Scouts 
-A groups consist of 3 Guards and 1 Scout. 
-4 groups are constantly moving along the land to collect taxes but also make sure the village is somewhat safe. 
-Remaining 4 Guards stay the village center. 
 
--- Priest and Healer --
 
-Dem 'Corkie' Neckle 
-Female (Gnome)
-Priest of (Church of life's fire) - lvl 4 - Sub par stats
-150s years old (30s for human) 
 
-Ginger curly red hair, freckels, a warm smile with some yellowed teeths. 
 
-A mother of many both blood releated and adopted. Tough she cares for all greatly. 
-Currently there are 8 kids living with her, with differing ages from babies to late teenagers, those able bodied help with the farm and cermonies. 
 
-The fathers and husbands are a complicated answer, Corkie is a promiscous character that care little for marrige. 
-Some of her partners stay on the farm for a while others are just a one night stand. 
 
-She knows and is a friend with Erky Timbers (Currently captive by the goblins). 
---
-Gnomes love to trick others, especially big folk.
-These tricks frequently include playing pranks or practical jokes, often physically painful for the recipient
 
-They also excel at woodworking,
-delighting in building toys, devices, tools and contraptions entirely out of wood. Gnomes also enjoy baking,
-especially cookies and desserts. 
---
-I would think there might be some prepared chairs, which she borrows out to those able to take it, that collpase toghter loudly upon being used. 
-Or that she has trained her Chickens to go into the guest area in the morning to wake them up. 
 
 
--- Merchant and Quest Giver ---
 
-Kerowyn Herclere 
-Femal (Human) 
-Noble 
-Mid 50s
-Grey hair tied back neatly.	
-She is composed but has clear signs of being worried over something. 
 
-Her store is the main trading center of the village. 
-The Herclere family is the ones responsible for counting and calculating the taxes. 
-They are also the ones responsible for setting up and handeling contract regarding the trade routes. 
 
-Hon är orolig då hennes barn, Talgen en Squire och Sharwyn en Mage, hade hört talas om den växande oron i området då något håller på att anfalla gårdsdjuren om kvällarna. 
-De två misstänkte att de Goblins som är aktiva i området och säljer frukterna borde vara inblandade. Så de anlitade 2 kompanjoner. 
-En Human ranger vid namn Karakas, samt en knight vid namn Sir Braford. 
-Braford och Talgen är borde inskrivna i service till Lady Sophey Wulfhild, Den nuvarande ledaren av Segeleta. 
 
-De begav sig mot Die Zitadelle in Ewiger Nacht, or the sunless citadel. 
 
-Men de har varit borta i ca 1 vecka nu och ingen har hört något ifrån dem. 
 
-Kerowyn erbjuder er ett uppdrag. Antingen så :
 
-* I värsta fall om Talgen och Sharwyn är döda, så ber hon er att i alla fall ta tillbaka Signet ringarna som de båda bär. Med familjens symbol. 
-* Men allra helst om de går att ta tillbaka de båda vid liv. 
 
-Om ni gör detta så säger hon att ni har full rättighet till vad ni än hittar inni i ruinen oavsett vem det tillhörde. 
-Men också för ringarna så får ni 
-10 GP för vardera ring 
-20 GP för per syskon som ni kan föra tillbaka vid liv. 
 
--- Blacksmith --
 
-Rurik Letgehr
-Male (Dwarf)
-200 years old (50s for a human) 
-Man kan see tecken på hur hurlinjen börjar avta och att han verkar vara i processen att bli skallig. 
-Det kvarvarande håret samt skägget är brunt i vikinga flätor, med några enstaka fläckar av bränt hår. 
-Artig men försäljare. 
 
 
--- Bar & Innkeeper -- 
-Ol'Boar Inn. 
 
-Garron
-Male (Human)
-Mid 50s 
-En stor rödaktig näsa, som en sån man kan få frå¨n att dricka mycket alcohol. 
-Överviktigt, med mutton chops. 
-Vänlig, och intresserad att få höra historier från genom resande. 
 
 
 
@@ -1718,105 +1385,44 @@ Vänlig, och intresserad att få höra historier från genom resande.
 
 
 
-Under sessionen så hände detta. 
 
-Under kvällen efter att ni tagit hand om björnen kommer en ny attack av dessa "Vampire Saplings" (Som ponny har namngett dem). Denna gång är det 8st som anfaller. 
-Men utan större problem lyckas gruppen hantera även denna attack, a singed squirrel not withstanding. 
 
-Gruppen väljer då att fråga era med resenärer om de vet något mer, om dessa varelser samt frukten som ni letar efter. 
-De säger
 
-* Att de känner inte till dessa "Vampire Saplings" men under de senaste 5-7 åren så har det skett attacker på betande bondgårdsdjur. Där djuren har fått gå och beta fritt under natten. Varpå dagen efter har djuren hittas döda, med sår som om de har blivit stuckna av flera små nålar. 
 
-* Frukten som ni letar efter känner de till men har inte personligen hanterat frutken. De berättar att för ca 7år sedan så började några goblins komma förbi och besöka de som bor på utkanten av byn för att sälja dem en frukt, 2 gånger på år. En frukt några dagar efter midsommar och en anna frukt några dagar efter midvinter. Den som de säljer under sommaren är röd som en ros, och varm vid berörning som en sättande sommar sol, denna frukt är nog vad ni letar efter då så vitt de vet har den starka läkande egenskaper. Den som säljs under vintertid är vit som snö och kall vid berörning, denna frukt ska var dödlig för de som äter dem.
 
-* De har hört rykten om att folk har försökt ta kärnan från frukterna för att plantera dem. Men bara någon dag efter att man ser första knoppen så är det bara ett hål kvar i marken som om en träd har blivit upprotat.
 
-* De vet ingeting mer om Goblina eller frukterna i detalj. Men de säger att Graf(Greve) Vurnor Leng som styr detta område eller Sheriffen Felosial kanske vet mer om vart Goblina kommer ifrån, samt så kanske Innkeepern Garron, ägaren av The Ol'Boar Inn vet något. Garron tycker om att samla in rykten samt höra vad som genomreseande har att säga. 
 
---
 
-Dagen därpå är ganska lugn. Mindre jobbig situation då någon råkar sätta sig på stack av eld myror, men ingeting allt för allvarligt. 
 
-Gruppen stötter på och räddar en Satyr vid namn Fil. Fil hadde råkat fastnat i en rope snare, troligtvist menat för något jaktdjur. 
-Ni frågar även han om information. 
 
-* Han vet om att dessa Vampire Sapling verkar vara aktiva i skogen och att de först började göra sig kända för några år sedan ca 5 år sen. 
 
-* Fil känner dock inte till detaljer om varelserna, men säger att så vitt han vet så är de en lokal variation. 
 
-* Han nämner att för ca 15 år sedan kom några äventyrare på uppdrag av en rik person till skogen för att fånga inn en Dryad. Fil känner inte till så många detaljer av situation, bara saker som en någon vid namn Belkar och några av hans andra vänner berättade för han. Att de var ute efter dryade för uppdragsgivaren trodde att det kunde användas för bli yngre/ung igen. 
 
-* Fil ger sedan som tack för att ni kom en magiskt ekollen till Selvon och säger om ni råkar stöta på problem i skogen så ska ni kasta det samt ropa "Fil ber om en tjänst" varpå hans vänner borde komma till er undsättning. 
 
 
-kvällen samt nästa dagens resa är lugn och ni anländer i Oakhurst centrum, och börjar fundera över vad ni ska göra härnäst. 
 
---
 
-Om ni vill få mer information eller detaljer så får ni fråga era medspelare som var närvarande. 
 
 
 
 
 
-https://www.reddit.com/r/FantasyMaps/comments/97jqru/oakhurst_city_map/
 
 
-https://michaelkscott.com/dnd/locations-and-npcs/
 
-https://michaelkscott.com/dnd/locations-and-npcs/
 
 
-----------------------
 
-The Basic Door Trap 
 
-With worse DEF roll if they are not prepared. 
-DEF vs 1d20+10
-A spiked ball comes swinging downward in waist height. 
-A failed check means that they have been hit by the trap, 
-Resulting in 1d6p+6 damage 
 
 
-Basic Spike Trap - 10ft deep 
-FoD vs 1d20+(15-20)
-1d6p-1 + 2d4p 
+https://i.imgflip.com/61m73w.jpg
 
+A Lawful characther
+    I Belive It is wrong to comprise my principle just because they are temporarly inconvinient. 
 
-Caltrops 
-FoD vs 1d20+20 - Requires that they move at crawl spd 
-- Fail Take 1 Damage 
-ToP Check 
-- If any of the above checks fails the target, takes 1 point of damage and can not continue moving forward for each 1s for point they failed the ToP check. 
-
-
-Ball Bearings 
-FoD vs 1d20+10
-Failure means that they fall prone, roll for time to get up on their feet.
-
-
-Drop from of above
-If they have the means to take cover
-FoD vs 1d20+10
-Takes 1d6-1 damage 
-
-
-Goblin weaponry
-- Evrytime one recieves piercing or hacking they will have to make a vs Disease check. 
-- When removing goblin projectile, the check becomes a hard check to properly remove the projectile. Failure leaves small parts of the weapon in the wound causing potential future porblems. 
-
-
-
-
-
-
-
-
-
-
-
-
+Lawful vs Evil ex. 
+https://www.youtube.com/watch?v=GKMqxDkc0gY&list=TLPQMjEwODIwMjN9cgyZ8hyMHg&index=2
 
 
 
@@ -1827,120 +1433,7 @@ https://www.dmsguild.com/product/432499/Save-or-Suck?src=youtube&affiliate_id=20
 
 https://trekiros.files.wordpress.com/2023/04/legendary-resistance-alternatives-_-trekiros-1.pdf
 
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.mythicspoiler.com/who/cards/exterminate.html
-
-https://www.mythicspoiler.com/who/cards/startthetardis.html
-
-https://www.mythicspoiler.com/who/cards/psychicpaper.html
-
-https://www.mythicspoiler.com/who/cards/biggerontheinside.html
-
-https://www.mythicspoiler.com/who/cards/wreckandrebuild.html
-
-https://www.mythicspoiler.com/who/cards/sibyllinesoothsayer.html
-
-https://www.mythicspoiler.com/who/cards/decayingtimeloop.html
-
-https://www.mythicspoiler.com/who/cards/laserscrewdriver.html
-
-https://www.mythicspoiler.com/who/cards/thethirddoctor.html
-
-https://www.mythicspoiler.com/who/cards/metheimmortal.html
-
-https://www.mythicspoiler.com/who/cards/ashadthelonecyberman.html
-
-https://www.mythicspoiler.com/who/cards/riversong.html
-
-https://www.mythicspoiler.com/who/cards/thethirteenthdoctor.html
-
-https://www.mythicspoiler.com/who/cards/weddingring.html
-
-https://www.mythicspoiler.com/who/cards/billpotts.html
-
-https://www.mythicspoiler.com/who/cards/theeightdoctor.html
-
-https://www.mythicspoiler.com/who/cards/rassilonthewarpresident.html
-
-https://www.mythicspoiler.com/who/cards/danlewis.html
-
-https://www.mythicspoiler.com/who/cards/sallysparrow.html
-
-https://www.mythicspoiler.com/who/cards/ryansinclair.html
-
-https://www.mythicspoiler.com/who/cards/dalekdrone.html
-
-https://www.mythicspoiler.com/who/cards/marthajones.html
-
-https://www.mythicspoiler.com/who/cards/outoftime.html
-
-https://www.mythicspoiler.com/who/cards/nardoleresourcefulcyborg.html
-
-https://www.mythicspoiler.com/who/cards/cybermansquadron.html
-
-https://www.mythicspoiler.com/who/cards/thewargames.html
-
-https://www.mythicspoiler.com/who/cards/dannypink.html
-
-https://www.mythicspoiler.com/who/cards/reversethepolarity.html
-
-https://www.mythicspoiler.com/who/cards/karvanistaloyallupari.html
-
-https://www.mythicspoiler.com/who/cards/trialofatimelord.html
-
-https://www.mythicspoiler.com/who/cards/cityofdeath.html
-
-https://www.mythicspoiler.com/who/cards/thesoundofdrums.html
-
-https://www.mythicspoiler.com/who/cards/lastnighttogether.html
-
-https://www.mythicspoiler.com/who/cards/thenightofthedoctor.html
-
-https://www.mythicspoiler.com/who/cards/cursedmirror.html
-
-https://www.mythicspoiler.com/who/cards/carpetofflowers.html
-
-https://www.mythicspoiler.com/who/cards/deathinheaven.html
-
-https://www.mythicspoiler.com/who/cards/flamingtyrannosaurus.html
-
-https://www.mythicspoiler.com/who/cards/fleshduplicate.html
-
-https://www.mythicspoiler.com/who/cards/confessiondial.html
-
-https://www.mythicspoiler.com/who/cards/everybodylives.html
-
-https://www.mythicspoiler.com/who/cards/cybermanpatrol.html
-
-https://www.mythicspoiler.com/who/cards/fourknocks.html
-
-https://www.mythicspoiler.com/who/cards/riversongsdiary.html
-
-https://www.mythicspoiler.com/who/cards/sonicscrewdriver.html
-
-https://www.mythicspoiler.com/who/cards/cybermat.html
-
-https://www.mythicspoiler.com/who/cards/renegadesilent.html
-
-https://www.mythicspoiler.com/who/cards/greatintelligencesplan.html
-
-https://www.mythicspoiler.com/who/cards/snuffout.html
-
-
-
-
-
+https://www.dmsguild.com/product/225548/
 
 
 
