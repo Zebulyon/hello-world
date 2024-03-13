@@ -224,6 +224,242 @@ https://dungeonsmaster.com/2009/06/skill-challenge-prison-break/
 ************************************************************************************************************************************************
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+The strange case of Dead Goats 
+
+Here's space to develop Black Jay (and his dead sheep issue) from the ToEE PC game into a workable side-quest for those running the pen-and-paper module.
+
+As the quest stands in the PC game, there's a bit of investigation, a bit of Fedex quest (take item A to NPC B), and a bit of roleplaying interaction. Not bad, to start. As I see it:
+
+A) Black Jay has a problem. This could be mentioned by another NPC in passing, or there could be someone who's concerned about him that actively seeks the PCs out (once they've established themselves as the "resident problem-solvers").
+
+B) Speaking to Black Jay will initially elicit a negative response, likely of the "get off my land" variety, unless they have established a reputation for good in the village; however, with some convincing (a bottle or two from the brewery would help), he will reveal that his sheep have been dying off. They have no visible marks on them, they are simply found dead. If asked, he will say that, while he is far from popular in the village, he doesn't have any enemies that he's aware of. As a matter of fact, Jay's quite a gloomy guy, and if pressed will admit he suspects the gods are simply punishing him for leaving his wife and child to fight in the war. He will not ask the PCs to help, but will gruffly thank them for the effort should they announce their intentions to do so.
+
+C) Investigating the field will turn up half-chewed hemlock sprigs lying here and there. Only a druid or ranger character (or possibly a sylvan elf, if no nature-related PC is present) is likely to recognize these as poisonous, unless they have some special background in herbalism. However, they have clearly been left here on purpose; the stems have been cut, and hemlock doesn't grow anywhere near the field.
+
+D) If necessary, taking the sprigs to Jaroo will identify them as poisonous hemlock, and deeply disturb Jaroo, as well. (Solving this quest, I feel, should generate goodwill with Jaroo.) He will urge the PCs to stop whoever is poisoning Black Jay's sheep.
+
+E) Hiding in or near the field at night (shouldn't really require a hide roll if the PCs use common sense in hiding themselves), the PCs will see Corl (the teamster's son) dropping hemlock in the field. If he is confronted he will run. If caught, he will confess to poisoning the sheep, and with some cajoling (or threats) will reveal that he did it to protect his family; no amount of convincing (short of some serious CE-style torture) will get him to reveal who put him up to it. (Use your judgement, here, see below if he cracks.) Regardless, being caught will scare Corl enough to prevent him from doing it again - problem solved (for Jay, at least).
+
+F) Confronting Corl at his family's residence will elicit a negative reaction from his father - unless the PCs have found out exactly who talked Corl into it. (See below.) He doesn't take well to any outsiders coming and making accusations against his son.
+
+G) Bringing the evidence to Black Jay and telling him what happened will relieve him greatly, and earn the PCs a (somewhat tactiturn) friend. He will not pursue vengeance against Corl, and will discourage the PCs from doing so; he is simply glad it won't be happening again.
+
+The background behind this (which will more than likely not come out unless the PCs really dig) is that Black Jay is an elf-friend and a veteran of Emridy Meadows, and the traders (Rannos & Gremag) are temple spies. Suspecting that Jay could call on the elves for assistance should the village be attacked, they plan to drive him out of Hommlet, without a confrontation if possible.
+
+To this end, they have intimidated Corl into doing their dirty work with threats of violence against his family. Corl will go to great lengths to conceal this, even after being caught, for fear of reprisal. PCs who follow Corl around after catching him in the act (or who hang around the traders' place) may catch a glimpse of Gremag and Corl having a rather heated exchange behind the trading post. Anyone successfully eavesdropping will hear a snatch of conversation: "... didn't tell them anything!" "You better not have, or..." (Adjust to taste.) Approaching the two will only result in Corl clamming up, and Gremag claiming that he found Corl messing with his horse stock, and was giving him a "good talking to." A week later, Corl will turn up dead in Nulb, with a poisoned dagger wound in him. (The braumeister's apprentice will be able to identify him, although he won't likely volunteer this information.) As usual, approaching the traders about this will not impress them, but will definitely get the PCs "on the list" with these two. For that matter, the teamster is likely to blame the PCs for the death of his son, should it come to his attention (he will assume that Corl has just run off, otherwise).
+----
+Can be changed to fit campaign by simply changing the real criminals to follower of starvation 
+------------------------------------------------------------------------------------------------------------------------------------------------
+************************************************************************************************************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+The restless war of Honor 
+-----
+
+EMRIDY MEADOWS
+the river can simply be a branch of the Veldrdyva south of the main river, since the CRPG has Emridy Meadows about 5 leagues north of Hommlet, a far more convenient distance. I would locate it where the word 'Verbobonc' is on this map:
+http://www.thekeep.org/~wombat/RTTTOEE ... e_hex.jpg
+
+Vanquished Knights of Veluna (30), AL LN, MV 12", HD 1, AC 7, #AT 1, D 1-6, SA nil, SD half damage from piercing/slashing attacks, no effect from enchantments, charms, and cold attacks, holy water does 2-8 damage, SZ M, IN Average
+
+Mavis Dabro, Leader of the Vanquished, AL LN, MV 12", HD 2, AC 5, #AT 1, D 1-6, SA nil, SD half damage from piercing/slashing attacks, no effect from enchantments, charms, and cold attacks, holy water does 2-8 damage, SZ M, IN Average
+
+Skeletal Horses (31), AL N, MV 15", HD 2, AC 7, #AT 2, D 1-6/1-6, SA nil, SD half damage from piercing/slashing attacks, no effect from enchantments, charms, and cold attacks, holy water does 2-8 damage, SZ M, IN Animal
+
+Mavis Dabro was an experienced and decorated commander from a noble, but impoverished aristocratic Velunan family. He never doubted his limits, until the Battle of Emridy Meadows, when he had a moment of weakness, panicked, and led his men in retreat to the river, where they died an ignoble death. Cursed to relive their moment of shame, he and his men can only be freed when they succeed in death as they did not in life. The problem is, Dabro's sword was lost in the waters of the river, and without it he has not had the confidence to properly lead his men against the opposing forces. In particular, he needs to know that Heironeous favors him, and will allow him a proper rest in the afterlife. Anyone who can return his sword, bless it on the delapidated battlefield altar, and give it to him, and then ensure he wins against the enemy will allow him and his men eternal rest. Although they retain the intelligence they have in life, they cannot speak without the aid of a speak with dead spell. They start out with a negative attitude towards intruders, but will not attack at first, waiting to be convinced. If the attitude is turned to Friendly or better, they stand around the party, attempting to speak. If the attitude is Enthuseastic, one of them, Mavis, walks to the river, pointing to the waters. If able to speak, Mavis will only explain what he wants, without embellishment, unless the attitude it Enthuseastic.
+
+The sword is guarded by a few zombies of the other cavalry, who easily rebuff any efforts by the lighter skeletal forces to recover it. The altar is hallowed, and neither side can get close to it. Any approach to the river by anyone is met with force from Velash's men, at least 2 zombies per intruder.
+
+Dabros and his men have been active since the first day of Growfest, when Harmony Truth tried speaking with dead with the opposing side. She has not tried speaking with the Velunans yet. Each night at midnight, they rise out of the waters of the river, and return to the battlefield, except for Mavis Dabro who futily tries to locate his sword, only to be frustrated by the zombies. After about an hour of this, a skeletal Velunan warns Mavis, and he returns to his men, who have been waiting patiently mounted up the whole time. They get in formation and meet the forces of Velash Fennin in battle. At dawn, the transparent ghostly flesh boils from their bones as they return to the river.
+
+
+Restless Chargers of the Temple (24), AL NE, MV 6", HD 2, AC 8, #AT 1, D 1-8, SA nil, no effect from enchantments, charms, and cold attacks, holy water does 2-8 damage, SZ M, IN Average
+
+Velash Fennin, Leader of the Restless, AL CE, MV 12", HD 3, AC 6, #AT 1, D 1-8, SA nil, SD no effect from enchantments, charms, and cold attacks, holy water does 2-8 damage, SZ M, IN Average
+
+Zombie Horses (25), AL N, MV 12", HD 3, AC 8, #AT 2, D 1-8/1-8, SA nil, SD no effect from enchantments, charms, and cold attacks, holy water does 2-8 damage, SZ M, IN Animal
+
+* note, all damage taken by one side inflicted by the other side is automatically restored at midnight of the full moon of either Luna or Celene. Damage taken from other sources is not healed in this way. As a general rule, the undead mounts do not attack on their own, but can be directed to by their rider in place of the rider's regular attack (it takes a bit of effort).
+
+Velash Fennin was all guts n'glory, which is the reason he and his men are here still. Seeing a contingent of Veluna knights routing, he charged recklessly. They ended up impaled on stakes, and possbily responsible for the defeat of the forces of Evil. Needless to say, the men hold Fennin responsible, a position he is uncomfortable with. Velash's undead forces are hard to control, and tend to disobey him out of spite. They have been active ever since the priestess Harmony Truth arrived a week ago at the start of Growfest. Each night they rise up, at midnight of the full moon. They wander around a bit, unless Harmony tries to speak with them, and a few always wander down to the river to keep the Dabro from doing whatever it is he wants to do down by the river (they do not know). After about an hour, they gather up their mounts, mount up, and attack the Velunan forces (it is something they feel compelled to do). They clash until daylight, then dig their way into their shallow graves again.
+
+Hedrack's mission team
+Harmony Truth, fH CE Cleric 5
+Low acolyte Lew, mH NE Cleric 2
+Temple Guards, human NE fighters 1(4)
+'Jelly', a bugbear guard for Harmony Truth
+
+Harmony Truth puts the evil in chaotic evil. She wants Terjon's amulet to score points back at the temple, and considers it a neccessity to haul back Velash Fennin and his 'men'. She is peeved that these particular undead are being so recalcitrant, unwilling to believe that she can't command them. She suspects Lew of being less than dedicated to the mayhem and carnage she can't seem to live without, and deems him weaker for it. She will see any attempt to interfere with the battlefield at Emridy Meadows as an attempt to steal her glory. She is crafty, however, and will seek to have any intruders destroy Mavis Dabro and his forces, possibly by representing herself as a cleric of Hieroneous from Veluna here to put rest the undead.
+
+Lew thinks that Harmony Truth puts the stupid in chaotic stupid, and thinks of himself as a man able to seize opportunities. He will therefore seize any opportunity to sell out Harmony, and march back with any prizes to Hedrack. He won't do anything to risk his life without appropriate gain, however.
+
+Jelly, so named because of what his maul does to the heads of opponents, and for the fact that he repeatedly sits on his food until it turns the right 'consistency' (he has a sensitive teeth). He is none too bright, but if anyone can fix his dental problem, they have a loyal, if evil, follower. Jelly will cause more problems than he solves, though.
+
+The fighters as selfish men who think of coins first, last, and always. They probably dream of retiring rich, surrounded by women and luxury. In truth they are cannon fodder sitting in a battlefield for the last week, eating iron rations and digging a new latrine for Jelly.
+
+Terjon's artifact is located under a rainbow colored stone between the two armies. During the day, Harmony Truth will likely object to the idea of someone looking around the middle of the battlefield. At night, there will probably be a ghostly battle going on. Underneath the rock is a note to Terjon from his father, and an artifact.*
+
+* I have not had a chance to redo this portion of the CRPG, so if anyone can fill in on the contents of the note and the nature of the artifact, please do!
+
+OTHER ADVENTURES:
+I think that a regular party of 4-6 adventurers without a number of hirelings or NPCs really should be 2-3rd level before hitting the Moathouse. The CRPG gives some other side quests that can be done before then, including clearing out a Deklo grove 5 miles north of Hommlet for the woodcutter, finding out who is killing Black Jay's sheep, etc. It would be nice to put these up as well. If I have time, I might do so. I think that giving the party some experience prior to the Moathouse is something most, if not all, DMs of T1-4 have struggled with.
+--
+Damn! I scribble a few notes, you just up and run with it. Fantastic information, good NPCs, excellent back story. I like Hedrack's team a lot.
+
+I haven't given much thought to Terjon, his amulet, or the note. I can't recall what it said in the CRPG, and frankly, what's been spelled out here is far superior.
+
+How about this -
+If the party is successful in recovering the sword, and bringing peace to the velunan cowards, there'll be a brief moment where the departing souls can be asked about the battle field, without the aid or limitation of Speak with Dead.
+
+The amulet could be a reliquary of some cuthbert saint, which was torn from Terjon's breast in the heat of battle. (I believe the CRPG was just a personal gift from Terjon's father)
+
+The Velunans know where Terjon fought, and can indicate the general area. A Detect Good or Detect Magic might locate the reliquary if the players have a more specific area to search (or is just lucky), but the information gathered from the knights would be invaluable for pin-pointing the object.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+************************************************************************************************************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Labour Problems 
+--
+So one of the quests from CRPG is a problem that Burne & Rufus are having where there are several unexplained construction delays due to issues with supplies being mis-ordered/misplaced.
+
+This is probably the weakest quest in the game. It's essentially a click the right thing type of quest, and the premise is so flimsy that it's almost laughable. Nevertheless, I really like the backdrop - Temple agents harassing the efforts to create a stronghold in hommlett.
+
+So I've given a lot of thought to how to make this work. Burne is a magic user, so any magic interference would have to be indirect, and very subtle.
+
+Here are the cast of characters for this little mystery:
+The agent: he's a part of the workgang, but not on the payroll. He's an illusionist, and has bribed one of the foreman to keep him on.
+The foreman: Not evil, just stupid. He's taken a large bribe to let some guy hang out and snoop around.
+The Jeweler: He's got a revealing clue about the foreman.
+The Traders: They're at the nest of this little problem.
+The Courier: ???? - I'd like to get this guy involved as an alternate means of solving the mystery, in case tracking down the illusionist is too difficult for the players.
+
+[NOTE: I actually run a Castles & Crusades Game. I post here, because I figure you grognards would have more insight, so if I mention some spell or effect that's not exactly in the PH or UA, you'll have to figure out how to make it work]
+
+Initially, it's very difficult to point out the agent in the work camp. He's very subtley involved, intelligent, and a spellcaster.
+
+The clues I have used are:
+The foreman (bribed guy) has a really fancy belt buckle. It's new if you ask around. He bought it from the jeweler. He's a good foreman, fair, kind of single-minded, but not unlikeable. It never occurs to him to hide the fact that he didn't earn the gold in a legitimate way, but he's smart enough to not offer the information that he's allowed a spy in the work camp.
+
+The jeweler knows that the foreman paid for the buckle with gold. A large sum of gold. Laborers, even the foreman, get paid in silver.
+
+A night at the Welcome Wench where service is bad - just after payday, the laborers are carousing, throwing their silver around like it's going out of style.
+
+Only a few of the foreman are literate.
+
+Shipments are either completely wrong or missing key materials.
+
+-= Mystery Parameters =-
+Can't use overt magic.
+It must be involved enough that Burne (as co-magistrate) cannot direct his personal efforts to solve.
+Implicates the Traders.
+
+I'm looking for my notes. IIRC, the mystery involves modifying the orders with illusory script and undetectable aura, which lasts long enough for the orders to arrive incorrectly at their destination, but seem normal when it's time to review the order in Hommlet.
+
+The courier probably meets the illusionist just outside the town.
+
+One of the difficulties with this little plot is that it can confuse players into leaving the area entirely to chase red herrings in Veluna or Verbobonc.
+
+Ok, I'll write more later.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+************************************************************************************************************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Woodsman Problems 
+---
+
+I intro-ed this is my Hackmaster game as follows:
+
+[Please note that the Guardians of the Polar Bear consists of 2 guys (mid 20's), my wife (31) and two daughters (10 & 8 ), so romanantic themes, while not common, sometime occur.]
+
+The Farmer's daughter (Melanie) has disappeared. She likes to play in the assorted wooded areas around Hommlett (she's an aspiring Druid, a career path her father does not appreciate). At the same time, the woodcutter shows up complaining about a spider infestation in the old Deklo grove. even the denseest PCs should be able to put two and two together...:)
+
+I believe that I had 3 large spiders in the grove maybe 4 (it has been over a year!)...in AD&D that would be:
+
+AC 8, MV 6"/15", HD 1+1, #ATT 1, DMG 1, SA Poison (+2 to save), AL NT.
+
+A good solution would be to drive the spiders away or use Ranger/Druidic powers to do the same. My group being my group they opted for slaughter! :? My wife, a 1/2-elven Cleric/Ranger of Ehlonna, rationalized it as, "Well, spiders are the servants of the Dark One Whose Name We Do Not Utter." (Brian Blume?) My 10 year old daughter, the elven Prinncess (fighter specialized in long bow--hey, she maxed out her Social Class Roll!) agreed, which is ironic since she would later take out Lareth (who I turned into a Drow) single-handedly.
+
+Melanie is bound in a cocoon in a web, weakened from poison. The spiders attack (if not handled otherwise) and hopefully are killed without too much problems.
+
+Complications: Melanie (age 16) could possibly develop a crush on a handsome (or not so handsome) male PC. [Not a problem in my game...the male PCs were a gnome fighter/illusionist and a dwarf fighter!] Alternatively, she might seek the counsel or mentoring of a PC druid...even though Ehlonna and the Shalm are usually at odds, she did ask my wife's advice about what to do...something my wife handled well in character.
+
+The experience is enough to send the 0-lvl Melanie over the cusp into !st level Druid. She leaves her family and spends some time with Jaroo who undertsnads the call of the Shalm. Handled corectly (and if the party looks halfway competant), Jaroo might send her with the party later on...
+
+That's my take on it, anyway.
+
+Tony
+
+EDIT: I almost forget...I had the PCs find a descicatted (sp?) elf body in rotted leather armor...and a pouch containing 10 gp, 1 ruby worth 250).
+
+The farmer, while wealthy, does not have a lot of hard currency. He'll throw a big feast in the players' favor n a couple of nights. That's when Melanie announces she's going to the Jaroo's grove. Ane
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+************************************************************************************************************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Goblin Infestede Lovers Nest 
+
+We've been tossing around ideas for ToEE sidequests, with great results so far (I'd say), but one thing that most of them don't address is gold. Hard cash. Moolah. If you're using training costs, this is gonna be an issue. Part of the answer may just be using a detailed wilderness map, with monster lairs linked to random encounters (maybe a 5 or 10% chance of stumbling across one on every trip through the hex, if you don't go looking?), but I'm working up a "starter dungeon" that's nearby, relatively survivable for a small-to-medium party of 1st-level characters. Figured I'd share my notes here.
+
+The premise I'm starting with is that Hommlet lies just on the edge of the Kron Hills. Depending on what version of Greyhawk/Viscounty of Verbobonc geography you subscribe to, this may or may not work for you, so feel free to adjust as necessary. I'm supposing that there are plenty of abandoned gnomish structures and excavations dotting the hills, some of them with nasty new inhabitants, not to mention all manner of natural caves and bolt holes.
+
+This one is a ruined silver mining outpost (long ago worked out and abandoned) cresting the top of a wooded hill not more than a mile or two from Hommlet. The above-ground portion consists of little more than a few low walls standing perpendicular to each other, the roof having long since fallen in and many of the stones carted away to build farmhouse foundations. The stair down to the below-ground levels is plugged up with debris, and the site has been somewhat of a "lovers' rendezvous" for most of the village's existence.
+
+However, what isn't common knowledge is that the original excavation connected up with a natural cave complex, the mouth of which is in a gully at the foot of the hill. This houses a tiny ecosystem of its own; with rainwater washing dead organic matter from the surface down through the caves, they support a thriving fungal and insect population, which in turn supports a few successful predators. Recently a small band of hobgoblins, exiled from a tribe in the Gnarley Forest, have taken up residence here. They figure the village to be easy pickings, and plan on living well off stolen livestock (supplemented by the occasional far-ranging shepherd). They are taking great pains to stay concealed, but have failed to take into consideration humans' need for privacy when attending to reproductive matters - they were recently spotted leaving the cave by a young couple (who immediately called off their tryst and fled back to the village by another route).
+
+Normally, their first reaction would be to alert one of Burne's Badgers (the town militia) and let them take care of it. However, the lovers are in a bit of a bind: Their families are of different religious persuasions (St. Cuthbert and the Old Faith, respectively), and they have been forbidden to see each other. They can't bring this to the attention of the authorities without questions coming up as to what they were doing at the ruins, and they are already sure that the girl's parents suspect something. (Her father is quite zealous in his devotion to St. Cuthbert, keeping a stout oaken cudgel hung over the cottage door, and has informed the young lad that it would be put to good use on his skull should he catch him near his daughter again.)
+
+This has weighed heavily on the lovers, and the lad has taken to hanging around the Welcome Wench, in the hopes he can find a group of outsiders to take care of the hobgoblins without making the affair public. He will observe any newcomers from across the public room, and if they appear to be likely prospects (any armed group will do, he's getting desperate), he will approach them with his tale. He is most insistent that the PCs need not involve the authorities in the matter, but will offer to lead them to the site and point out the cave entrance.
+
+
+I haven't worked out the exact identities of the lovers, yet, I'll edit that in once I figure it out. I'll post the basic description of the cave complex and its inhabitants in a few, and the worked dungeon level after that.
+--
+Ran this on Saturday - lots of fun.
+
+Playing the part of the young lovers, we had Jacen (the otherwise unidentified son of the farmer in area 25), and Danielle (one of the unidentified "seven children" of the cowherd at area 21).
+
+The dungeon itself, I have presented Choose-Your-Own-Adventure style - the physical layout doesn't matter much, just as long as the tunnels connecting caverns are believably long. (This is the first handful of rooms, more to follow. "#" references with no number aren't described, yet.)
+
+#1. The entrance to the cavern is a moderately steep, rocky climb about seven feet down from the bottom of the gully. (Any healthy individual can make this with ease.) Climbers will have to duck low to gain entrance, but after this the tunnel opens up and normal-sized humans should have no problem walking two abreast. (All passages are 10' wide, unless otherwise noted.)
+
+30' in, a small (5' wide) tunnel opens to the left (#2), while the wall on the right drops off 15' to reveal a large (roughly 30x80), kidney-shaped grotto (#3); the path hugs a ledge on the left-hand wall, gradually sloping down to meet the floor.
+
+#2. This passage terminates at a round chamber, 20' across. Two al-mir'aj (a mated pair) lair in cracks in the walls here; one will be visible when the PCs arrive. It will pace nervously for a moment when they enter, and will spring to attack if they do not leave within a few seconds. Its mate will attack from hiding on the next round. Their lair contains no treasure.
+
+#3. Dead organic material, soil and water wash down into this cavern when it rains, making it a perfect place for life to thrive. All manner of (non-monstrous) insects and fungi can be found in this grotto. A slight bioluminescent glow can be detected if light sources are extinguished, but it is not enough for humans to see by. The grotto narrows at its far end, leading to a t-shaped junction (#4).
+
+#4. The passage here leads to the left (#5) and to the right (#), at a slight downward slope in both directions. A crawl that opens up directly overhead leads to the pedipalps' lair (#), but PCs will not notice this unless they look directly upwards. Roll for a random encounter here, if one is indicated, it will be with one of the pedipalps.
+
+#5. The passage here splits, leading left (#6) (at a slight upward incline) and right (#7) at a gradual downward slope.
+
+#6. This dome-shaped cavern is about sixty feet across. The floor is dry (as water does not flow into this area), but teems with insects. The insects will swarm over the legs of anyone passing through this area; anyone passing through has a 1 in 6 chance of being bitten (with a 5% chance of contracting a disease). Two fire beetles lair here. (Remove from random encounter table if defeated). There are no exits other than the tunnel that leads here.
+
+#7 The passage here flares out to an oval chamber, about 40' long and 20' wide at the middle. The chamber floor is flooded to a depth of two feet, with only a narrow ledge around the perimeter should one wish to stay dry. The water is foul and brackish, thick with scum and nearly completely opaque. Anyone looking at the ceiling will see several shiny, grey lumps with yellow spots clinging over the pool. PCs hugging the ledge will be safe, but those wading through the water will be attacked by 10 scum creepers; these will drop as PCs pass underneath (1d6 per round, randomize attacks between all characters in the water). Searching the water for 3 turns will turn up a rotten, slimy corpse; further searching in the area of the body will turn up a lantern (will need to be thoroughly dried before it will work), 6 cp, 17 sp, 4 gp, a rusted short sword (-2 to hit, breaks the first time it hits armor) and several handfuls worth of rusted iron rings (what is left of a ring mail jack after the leather backing rotted away). The passage continues on 40' to the next large chamber (#8).
+
+#8 This expansive, peanut-shaped cavern is home to a small "grove" of mushroom stalks. (The stalks themselves are just over man-high, the thickness of a large man's thigh, and very tough; however, the caps will not support any weight over 50 pounds, so they are not easily scaled.) The tunnel from #7 connects with the west end of the "peanut," which holds the thickest grouping of mushrooms, along with a shallow pool of brackish water. A passage exits the cavern in the middle (or "waist") of the peanut, leading to the south and immediately forking southeast and southwest (to #9 and #10, respectively). Towards the east end of the peanut, a iron-bound door is set into the north wall of the cavern. The door is approximately 5 feet hight, and nearly that wide. (This is gnomish construction, after all.) What appears to be a lock is nothing more than an arrow trap; anyone opening the door without first disarming the trap will set it off and take 1d6 points of damage (save vs. breath weapon to avoid). The door opens inwards (push from this side), and is stuck, but not locked or barred. 20 feet to the east is the body of a hobgoblin, recently deceased. Anyone examining the body closely will have a 5% chance to notice something moving in the right eye socket: a fat rot grub. Anyone searching (or attempting to strip) the body will have a 50% chance of feeling a cold, wriggling sensation on the back of their hand, as one of several grubs infesting this body burrows into it. The body has 11 cp and 4 gp in a pouch at its waist. (The other hobgoblins know what killed their compatriot, and won't come anywhere near the body, so the coins, weapons (longsword and dagger), and armor (scale mail and shield) are all still here.)
+
+Random Encounters:
+
+1 1d3 cave crickets
+2 2d4+2 giant rats
+3 1d4-2 pedipalps
+4 d6+4 stirges
+5 1d2 fire beetles
+6 3d10 bats (no combat, but rushing by will extinguish torches)
+------------------------------------------------------------------------------------------------------------------------------------------------
+************************************************************************************************************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------
+Good ideas for adventures 
+
+https://www.dragonsfoot.org/forums/viewtopic.php?t=60568
+
+Good quick and big dungeon maps 
+
+https://www.paratime.ca/cartography/index.html
+
+
 ()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
 ################################################################################################################################################
     ALCHEMY (ALC)
@@ -798,6 +1034,91 @@ Living rope.
 This rope looks quite similar to regular hemp rope, tough it has a slight green coloration. 
 Upon speaking the proper command word one is able to have the rope become animated, then using an Animal check the rope can be made to behave in the exact manner of the users choosing. 
 
+Fungus Summon
+A "strange figurine" that could summon a random fungus once a day. 
+
+--
+
+Amulet of Proof Against Turning
+Ming
+A bronze pendant of the sun being eclipsed by the moon. The pendant confers immunity to being turned or controlled. May be used by any person/creature subject to turning (i.e. undead, paladins, etc.) Useful also for a mage that has created undead and wishes to keep a priest from wresting away control. It must be worn by the creature/person that it will affect. The evil mage Ming is suspected of working on a version to be worn by a spellcaster to simultaneously protect any undead he has raised.
+--
+
+Amber Spider
+Ming
+A small polished piece of amber with a spider trapped inside, held in a silver web pendant. The wearer of this pendant cannot be trapped in spider webs or web spells, and can climb across them at � movement rate. 10% of these also allow the casting of a spider climb spell 1/day.
+--
+
+Alarm Wire
+Ming
+A spool of fine copper wire on a wooden plug. When a piece of wire is snipped off and straightened, it may be placed across a hallway, windowsill, etc. and has the same effect when crossed over as an alarm spell. Each piece will function only once. An unused spool has 50 feet of wire.
+--
+
+Bag of Thorns
+Ming
+Inside this small, roughly woven raw silk bag is 4d20 long, sharp thorns. If a thorn is planted in the ground, one round later a 5 feet diameter by 8 feet high wickedly barbed thicket will sprout. If two thorns are planted within 10 feet of each other, a 10 feet wide by 10 feet high by 3 feet thick hedge will grow. In this manner a wall, square, or other shaped hedge of nasty thorns can be created. Brushing against the hedge causes 1 point of damage, and any who try to pass through the hedge suffer 1d6 points of damage per foot, moving at only one foot per round, destroying clothing and damaging leather in the process. Size small creatures may subtract 1 point of damage per die, and size tiny creatures suffer only half damage. Chopping through the brush takes one round per foot; setting fire requires one round to light, then burns away a 5 feet section per round. Dispel magic can destroy the wall. If left alone, the thorn bushes will grow naturally at a rate of 1 foot per month in all directions, never to exceed double its original size.
+--
+Book of Spelling Mistakes by Juliet Wright
+This book detects as magic but appears to be a dull non-fiction book describing some feature of the current location. When read by a spell caster the reader immediately gets a headache and double vision for d6+3 turns. Thereafter the spell caster is subject to spelling mistakes in his spells at the rate of d6 per day. These take the form of single letter changes to the spell's name (and hence effects). So for Sleep read Sheep or Steep or Sleet. Initially the DM will make the substitutions and the player will only find out the effects when casting the spell (DMs must be generous!).
+
+If a spell has no valid one-letter transformation it cannot be affected. After a week the player gains the ability to select the spelling mistakes and so to create some potentially powerful new spells (the DM still selects the effects though in line with the new spell title). This item gives lots of opportunity for fun and creativity among players and DMs (I never could persuade anyone to take "Piss Without Trace").
+
+The DM can opt to allow a Remove Curse or more powerful equivalent to remove the effect at his discretion but I find that after a while other players are envious.
+--
+
+Borgir�s Sugar Cubes
+Ming
+Ordinary looking sugar cubes except that they are individually wrapped in mint leaves. Each cube heals 1d3 points of damage or will cure minor illnesses like dysentery, flu, colic, etc. Originally created for Borgir�s large herd of horses, these cubes are fairly common in and around southern Harkmoor. Usually found in a box of 5-20. These may be dissolved in liquid and are often dropped in brackish water to make it drinkable (1 gallon per cube).
+--
+
+Bowl of Purity
+Ming
+A common-looking wooden bowl (made of wood from a sacred grove) with a blessing for health and plenty carved along the inside edge in ancient Ersic. Any food or liquid placed in this bowl, whether rancid or poisoned, is made edible as per the spell purify food and drink.
+--
+Box of Delights by bloodymage
+This is a 1’x1’x6” exquisitely carved cherry wood box, inlaid with gold. Upon discovery, there is a 10% chance that there will be a small bag in the Box of Delights. The contents of the bag will be whatever the last owner of the box had in his possession (clothing, carried wealth, weapons, magic items). Determine the conents of the bag randomly as you see fit.
+
+Thereafter, or if the box is discovered empty, one time per week reaching into the box will randomly produce something delightful. An Identify will reveal this sole property to the caster. A second Identify will show the nature of the two greatest delights the box has to offer (money and magic). A final Identify is required to reveal the one function of the box which will most certainly delight other people!
+
+
+
+01%	Everything on the character will disappear along with the box itself. The character will be teleported, naked, to the nearest crowded tavern, inn or other assemblage of people. The Box of Delights will be teleported to a random location to be discovered by another.
+02-10%	1-12 pieces of scrumptious pixie candy
+11%-20%	a bottle of fine elven wine
+21%-30%	a plug of the finest halfling pipeweed
+31%-40%	a jug of stout dwarven ale
+41%-50%	1-6 delectable halfling muffins
+51%-60%	1-6 cones of heavenly dryad incense
+61%-70%	a vial of elven bath oil
+71%-80%	1-12 delightful, colorful gnomish fireworks
+81%-90%	a gourmet feast for 2-8 of the finest foods and wines that humankind can provide
+91%-95%	roll on Table II.A. Monetary Treasure in the DMG. The Box of Delights will teleport to a random location with this result
+96%-100%	roll on Table III. Magic Items in the DMG. The Box of Delights
+will produce 1 magic item and teleport to a random location
+---
+
+Iron Rats by Chuck Prater
+This small Iron chest contains 48 black Iron rats approx 2 inches long. When the chest is open and the command word is spoken they become 2 feet long Iron rat golems an will attack at the casters command.
+A/C: -5
+HP's: 50
+No of Att: 3 claw/cla/bite
+Dmg att: 1-6/1-6/2-6
+
+These rats can chew through non magical wood or metal at the rate of 1 foot per round.
+
+Medium or large sized creatures hit at a -2.
+--
+
+Kidnapper�s Bag
+Ming
+This is a coarse black sack with a drawstring. When placed over a person�s head, he must save vs. paralyzation or be rendered unconscious immediately, lasting 2d4 rounds. To use this item on an unwilling victim, a called shot to the head (at -4 to hit) must be rolled. This modifier can be negated if attacking from with surprise, or if the victim is held or sleeping. Once a victim has passed the saving throw, the bag will not function against that person again. The bag is big enough to be used against size large creatures like ogres.
+--
+
+Og's unbreakable orb
+Bubb A. Geddon
+This is a sphere about 5" in diameter made of a pale, dull and unidentifiable gray non-metallic substance. It weighs approximately 7 lbs. It is not affected by any form of attack, any form of elemental damage or ANY form of magic (regardless of the caster level). It cannot be crushed, gouged, scratched or ground. It is non-conductive and non magnetic. It cannot be heated or cooled. wish and alter reality magic will not undo it. In short: its one property is that is affected by no force but simple physics. It can be thrown, carried, dropped, rolled etc. If thrown it will strike for 1d6 (strength bonuses apply).
+--
+
 Random fluff for books 
 https://forums.giantitp.com/showthread.php?483064-What-s-on-the-Shelf-1001-Essays-Treatises-and-Books-on-Magic
 
@@ -1317,8 +1638,6 @@ Arcane Lore
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
 
-
-
 Tiamat was a previous incarnation of "The Courts of Inequity"
 
 Non Evil-Clerics - have to destroy all symbolism of dragons
@@ -1332,12 +1651,29 @@ If they fullfill Kerowyns side quest she will also send a letter to the Valiant 
 
 
 
+Failure to maintain upkeep of Gulthias will lead to future complications. 
+Selvon is likely going to require spending some amount of his downtime. 
+
+Dagg and Tien I have no clue where they might want to spend their downtime
+
+Grimus will likely travel to a larger city, to achive knighthood. 
+
+Olma will likely go somewhere where she can ask someone to help her learn to read. 
 
 
 
+Need to look over everyones backstories once more. 
+
+Write down their answers to personality quiz
+
+Write the document for the effects of their decisions, and what oppertunities were available. 
 
 
 
+--
+Japanese
+
+Do you write 1 person and Alone in the same way 
 
 
 
